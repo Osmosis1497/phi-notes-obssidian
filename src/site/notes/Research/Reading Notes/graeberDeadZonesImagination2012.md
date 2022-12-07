@@ -4,12 +4,16 @@
 
 # graeberDeadZonesImagination2012
 
+# Citation
+Graeber, David. 2012. “Dead Zones of the Imagination: On Violence, Bureaucracy, and Interpretive Labor. The 2006 Malinowski Memorial Lecture.” _HAU: Journal of Ethnographic Theory_ 2 (2): 105–28. [http://www.haujournal.org/](http://www.haujournal.org/).
 
-## Definition of Structural Violence
+# Notes
 
+Definition of [Structural] Violence: 
 > [Go to annotation](zotero://open-pdf/library/items/6QT5LM6M?page=105&annotation=CLHQGRW2)“By “violence” here, I am not referring to the kind of occasional, spectacular acts of violence that we tend to think of first when the word is invoked, but again, the boring, humdrum, yet omnipresent forms of structural violence that define the very conditions of our existence, the subtle or not-so-subtle threats of physical force that lie behind everything from enforcing rules about where one is allowed to sit or stand or eat or drink in parks or other public places, to the threats or physical intimidations or attacks that underpin the enforcement of tacit gender norms.” ([Graeber, 2012, p. 106](zotero://select/library/items/EASIZ8BY))
 
-[Go to annotation](zotero://open-pdf/library/items/6QT5LM6M?page=106&annotation=Y7KG3CPE)“areas of violent simplification.” ([Graeber, 2012, p. 106](zotero://select/library/items/EASIZ8BY)) Places where the treat of violence is both hidden away as well as underwriting and shaping the public transcript.
+[Go to annotation](zotero://open-pdf/library/items/6QT5LM6M?page=106&annotation=Y7KG3CPE)“areas of violent simplification.” ([Graeber, 2012, p. 106](zotero://select/library/items/EASIZ8BY)) 
+- Places where the treat of violence is both hidden away as well as underwriting and shaping the public transcript.
 
 [Go to annotation](zotero://open-pdf/library/items/6QT5LM6M?page=106&annotation=BDPXTEGY)“anthropologists are drawn, above all, to what might be called areas of symbolic richness or density of meaning, where “thick description” becomes possible.” ([Graeber, 2012, p. 106](zotero://select/library/items/EASIZ8BY))
 
