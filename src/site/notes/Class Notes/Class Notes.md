@@ -15,7 +15,7 @@ We use this site to publish course notes. Source are cited and linked when possi
 - [[Research/Ideas/The Classic Gnostic Myth\|Research/Ideas/The Classic Gnostic Myth]]
 - [[Research/Ideas/Models of the Body in Greco-Roman Society\|Models of the Body in Greco-Roman Society]]
 - [[Research/Ideas/Map is not territory\|Map is not territory]]
-- [[Class Notes/S5-Lectures/Humans and Persons\|Humans and Persons]]
+- [[Research/Ideas/Humans and Persons\|Humans and Persons]]
 
 # Live Whiteboard - Not Monitored
 - [Personal Whiteboard - Excalidraw](https://excalidraw.com) - You can use this to take notes locally on your computer.  
@@ -39,5 +39,5 @@ We use this site to publish course notes. Source are cited and linked when possi
 - [[Research/Reading Notes/hermanTraumaRecovery2015\|hermanTraumaRecovery2015]]
 - [[Research/Reading Notes/karatziasTreatingAdultsComplex2019\|karatziasTreatingAdultsComplex2019]]
 - [[Research/Reading Notes/patriciaa.resickCognitiveProcessingTherapy2016\|patriciaa.resickCognitiveProcessingTherapy2016]]
-- [[Research/Reading Notes/silvaComingShortWorking2015\|silvaComingShortWorking2015]]
+- [[silvaComingShortWorking2015\|silvaComingShortWorking2015]]
 -
