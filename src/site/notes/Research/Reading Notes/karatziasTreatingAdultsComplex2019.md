@@ -2,8 +2,12 @@
 {"dg-publish":true,"permalink":"/research/reading-notes/karatzias-treating-adults-complex2019/","tags":"gardenEntry"}
 ---
 
-karatziasTreatingAdultsComplex2019
+# karatziasTreatingAdultsComplex2019
 
+# Citation
+Karatzias, Thanos, and Marylene Cloitre. 2019. “Treating Adults With Complex Posttraumatic Stress Disorder Using a Modular Approach to Treatment: Rationale, Evidence, and Directions for Future Research.” _Journal of Traumatic Stress_ 32 (6): 870–76. [https://doi.org/10/ggddw9](https://doi.org/10/ggddw9).
+
+# Notes
 [Go to annotation](zotero://open-pdf/library/items/LXLFESAP?page=5&annotation=6ZQF5JQA)“Karatzias et al. (2018) concluded that negative self-concept, specific types of attachment-based fears and emotion dysregulation in the form of inhibited emotional expression were differentially associated with CPTSD compared to PTSD.” ([Karatzias and Cloitre, 2019, p. 5](zotero://select/library/items/NKLPPIA7))
 
 [Go to annotation](zotero://open-pdf/library/items/LXLFESAP?page=5&annotation=WSIUPI6U)“while emotion regulation difficulties are indirectly addressed in many treatments (e.g., via focused breathing training preceding exposure), direct psychoeducation on the impact of chronic trauma on emotion regulation and skills training in emotional expression might be helpful” ([Karatzias and Cloitre, 2019, p. 5](zotero://select/library/items/NKLPPIA7))
