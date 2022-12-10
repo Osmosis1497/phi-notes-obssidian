@@ -32,7 +32,7 @@
 # Unit 5 - Society
 [[Class Notes/Whiteboards/Whiteboard - Domestication of Animals Through Africa\|Whiteboards/Whiteboard - Domestication of Animals Through Africa]]
 [[Class Notes/Whiteboards/Whiteboard - Feudalism Diagram\|Whiteboard - Feudalism Diagram]]
-[[Class Notes/Whiteboards/Whiteboard - Growth of Capital\|Whiteboards/Whiteboard - Growth of Capital]]
+[[Whiteboards/Whiteboard - Growth of Capital\|Whiteboards/Whiteboard - Growth of Capital]]
 [[Class Notes/Whiteboards/Whiteboard - 3 Forms of Social Relations\|Whiteboards/Whiteboard - 3 Forms of Social Relations]]
 
 
