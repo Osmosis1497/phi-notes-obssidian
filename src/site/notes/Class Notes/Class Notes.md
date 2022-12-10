@@ -6,16 +6,16 @@ Link to this page: [Class Notes Homepage](<https://sprightly-figolla-7afbc2.netl
 # Purpose
 This is used to house artifacts discussed in class.  These can be maps, letters to the US president, quotations, diagrams for in-class-thought experiments, and so forth.  This is not used to publish general class notes.
 
+![Map of Arcadia, site of our Rawl's thought experiments.](<Diagram - Rawls - Islad - Base.png>)
+
 Keep in mind that mere *presence* of an idea or source here is in *no way* an indication of endorsement or criticism.  Merely things we examine or deconstruct on our way to trying make sense of our current one and perhaps imagine something better. 
 
  Source are cited and linked when possible.  Please contact me if you find something amiss. If you provide some sources and are convincing, I'll certainly update things.
 
-![Map of Arcadia, site of our Rawl's thought experiments.](<Diagram - Rawls - Islad - Base.png>)
-
-# Scattered Notes by Class
+# Notes by Class
 - [[Semester/Introduction to Philosophy - Outline\|Introduction to Philosophy - Outline]]
 
-# Topical Notes
+# Other Notes and Artifacts
 - [[Research/Ideas/The Classic Gnostic Myth\|Research/Ideas/The Classic Gnostic Myth]]
 - [[Research/Ideas/Models of the Body in Greco-Roman Society\|Models of the Body in Greco-Roman Society]]
 - [[Research/Ideas/Map is not territory\|Map is not territory]]
