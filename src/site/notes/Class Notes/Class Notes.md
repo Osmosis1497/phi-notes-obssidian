@@ -13,7 +13,7 @@ Keep in mind that mere *presence* of an idea or source here is in *no way* an in
 ![Map of Arcadia, site of our Rawl's thought experiments.](<Diagram - Rawls - Islad - Base.png>)
 
 # Scattered Notes by Class
-- [[Semester/Introduction to Philosophy\|Introduction to Philosophy]]
+- [[Semester/Introduction to Philosophy - Outline\|Introduction to Philosophy - Outline]]
 
 # Topical Notes
 - [[Research/Ideas/The Classic Gnostic Myth\|Research/Ideas/The Classic Gnostic Myth]]
