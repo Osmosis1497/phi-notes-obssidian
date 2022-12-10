@@ -3,47 +3,41 @@
 ---
 
 
-# Unit 1 - Philosophy as
+# Course Outline
+## Unit 1 - Philosophy as
+### Clarification
+
+### Challenge
 
 
-# Unit 2 - Knowing
-[[Research/Ideas/Epistemology\|Epistemology]]
-[[Class Notes/S5-Lectures/Lecture Drafts/L - Epistemology - Lecture\|L - Epistemology - Lecture]]
-[[Class Notes/S5-Lectures/Lecture Drafts/L - Introduction to Epistemology Part II\|L - Introduction to Epistemology Part II]]
-[[Class Notes/S5-Lectures/Lecture Drafts/L - Introduction to Epistemology\|L - Introduction to Epistemology]]
+## Unit 2 - Knowing
+### Data into Guesses 
 
-# Unit 3 - Existence
-[[Class Notes/Whiteboards/Complete/Diagram - Wheel of Samsara\|Diagram - Wheel of Samsara]]
-[[Class Notes/Whiteboards/Complete/diagram - moksha\|diagram - moksha]]
-[[Class Notes/Whiteboards/Complete/Atomists and Causation.excalidraw\|Atomists and Causation.excalidraw]]
-[[Class Notes/Whiteboards/Complete/Diagram - 4 Possibilities of Human and Person\|Diagram - 4 Possibilities of Human and Person]]
-[[Class Notes/Whiteboards/Complete/Diagram- Cyclical View of Time\|Diagram- Cyclical View of Time]]
-[[Class Notes/Whiteboards/Complete/humans and persons.excalidraw\|humans and persons.excalidraw]]
+### Guesses into Knowledge
 
-# Unit 4 - Value
-[[Class Notes/Whiteboards/Whiteboard - Trolley Problem - Basic\|Whiteboard - Trolley Problem - Basic]]
-[[Research/Ideas/Ethics as Value in Motion\|Ethics as Value in Motion]]
-[[Research/Ideas/Examples of the Social Need to Quantify Human Value\|Examples of the Social Need to Quantify Human Value]]
-[[Research/Ideas/Value\|Value]]
-[[Class Notes/Whiteboards/Complete/Deontology - Lecture - Board Notes\|Deontology - Lecture - Board Notes]]
-[[Class Notes/Whiteboards/Complete/Diagram - Class and Gender Hierarchy in Greco-Roman Society\|Diagram - Class and Gender Hierarchy in Greco-Roman Society]]
+### Knowledge into Bodies
+
+## Unit 3 - Existence
+### Existence vs. Becoming
+
+### Definitions into Drama
 
 
-# Unit 5 - Society
-[[Class Notes/Whiteboards/Whiteboard - Domestication of Animals Through Africa\|Whiteboards/Whiteboard - Domestication of Animals Through Africa]]
-[[Class Notes/Whiteboards/Whiteboard - Feudalism Diagram\|Whiteboard - Feudalism Diagram]]
-[[Whiteboards/Whiteboard - Growth of Capital\|Whiteboards/Whiteboard - Growth of Capital]]
-[[Class Notes/Whiteboards/Whiteboard - 3 Forms of Social Relations\|Whiteboards/Whiteboard - 3 Forms of Social Relations]]
+## Unit 4 - Value
+### Economic notions of Value
 
+### Moral and Cultural notions of Value
 
-# Unit 6 - Religion
+## Unit 5 - Society
+### Bodies
 
+### Information
 
+### Spectacle
 
-# Unit 7 - Future
+## Unit 6 - Future
 
 
 
-# Unit 8 - Power
 
 
