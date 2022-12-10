@@ -2,50 +2,50 @@
 {"dg-publish":true,"permalink":"/semester/introduction-to-philosophy-outline/","tags":"gardenEntry"}
 ---
 
-This is the general course outline for the introduction to philosophy class.
+This is the general course outline for the introduction to philosophy class. 
 # Course Outline
-## Unit 1 - Philosophy as
-### Clarification
-- Plato's *The Cave*
-- Weston's "Introduction" to *A New History of Western Philosophy*
-### Challenge
-- Plato's *Apology*, *Crito*
+## 1 - Philosophy as
+### 1.1Clarification
+- Artifacts
+	- Plato's *The Cave*
+	- Weston's "Introduction" to *A New History of Western Philosophy*
+### 1.2Challenge
+- Artifacts
+	- Plato's *Apology*, *Crito*
 
-## Unit 2 - Knowing
-### Data into Guesses 
-- [[Class Notes/S5-Lectures/Lecture Drafts/INCOMPLETE - Lecture Notes - Epistemology Modernists and the External World\|INCOMPLETE - Lecture Notes - Epistemology Modernists and the External World]]
-### Guesses into Knowledge
+## 2 - Knowing
+### 2.1 Data into Guesses 
 
-### Knowledge into Bodies
+### 2.2 Guesses into Knowledge
 
-## Unit 3 - Existence
-### Existence vs. Becoming
+### 2.3 Knowledge into Bodies
 
-### Definitions into Drama
-- [[Research/Ideas/The Classic Gnostic Myth\|The Classic Gnostic Myth]]
+## 3 - Existence
+### 3.1 Existence vs. Becoming
 
-## Unit 4 - Value
-### Economic notions of Value
-- [[Research/Ideas/Value\|Value]]
-	- [[Research/Maps and Diagrams/How value flows through the economy according to David Harvey\|How value flows through the economy according to David Harvey]]
+### 3.2 Definitions into Drama
 
-### Moral and Cultural notions of Value
-- [[Research/Ideas/Value for Kluckhohn\|Value for Kluckhohn]]
+## 4 - Value 
+- [[Research/Ideas/Value\|Value]] Lecture
+### 4.1 Economic notions of Value
+- [[Research/Maps and Diagrams/How value flows through the economy according to David Harvey\|How value flows through the economy according to David Harvey]]
+- [[Class Notes/Whiteboards/Complete/Whiteboard - Liberalism and Capitalism\|Class Notes/Whiteboards/Complete/Whiteboard - Liberalism and Capitalism]]
+- [[Class Notes/Whiteboards/Whiteboard - Growth of Capital\|Class Notes/Whiteboards/Whiteboard - Growth of Capital]]
+### 4.2 Moral and Cultural notions of Value
 
-## Unit 5 - Society
-### Mythologies of the Fall
+## 5 - Society
+### 5.1 Mythologies of the Fall
 
-
-### States and Markets
+### 5.2 States and Markets
 - Artifacts
 	- [[Research/Maps and Diagrams/Map - Middle Ages Trade Networks c 1200 CE\|Map - Middle Ages Trade Networks c 1200 CE]]
 
-### Organization
+### 5.3 Organization
 
-## Unit 6 - Future
-### Our Four Futures
+## 6 - Future
+### 6.1 Our Four Futures
 - Artifacts
 	- [[Research/Artifacts/Bush-era letter from Energy CEOs\|Bush-era letter from Energy CEOs]]
-### Mythologies of Apocalypse
-* 
+### 6.2 Mythologies of Apocalypse
+
 
