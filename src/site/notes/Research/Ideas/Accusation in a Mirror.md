@@ -2,34 +2,24 @@
 {"dg-publish":true,"permalink":"/research/ideas/accusation-in-a-mirror/","tags":"gardenEntry"}
 ---
 
-# Accusation in a Mirror
-# Introduction
+# Citation
+Marcus, Kenneth L. “Accusation in a Mirror.” _Loyola University of Chicago Law Journal_ 43 (2012): 357.
 
-## Core Idea
-
-> Despite its counter-intuitive nature, [[Accusation in a Mirror 1\|Accusation in a Mirror 1]] has proven to be one of the central mechanisms by which genocidaires publicly and directly incite genocide, in part because it turns out to be quite effective.
-
-...
-
-> The basic idea of AiM is deceptively simple: propagandists must "impute to enemies exactly what they and their own party are planning to do." 
+# Core Idea
+> The basic idea of AiM is deceptively simple: ==propagandists must "impute to enemies exactly what they and their own party are planning to do." ==
 > 
 > In other words, AiM is a rhetorical practice in which one falsely accuses one's enemies of conducting, plotting, or desiring to commit precisely the same transgressions that one plans to commit against them. 
-> 
+
+# Example
 > For example, if one plans to kill one's adversaries by drowning them in a particular river, then one should accuse one's adversaries of plotting precisely the same crime. 
 > 
 > As a result, one will accuse one's enemies of doing the same thing despite their plans. It is similar to a false anticipatory *tu quoque*: before one's enemies accuse one truthfully, one accuses them falsely of the same misdeed.
 
-...
-
+# Aims
 > The point is not merely to impute iniquities that are as bad as the misdeeds that the propagandist's own party intends. Instead, AiM is the more audacious idea of charging one's adversary with "exactly" the misdeeds that the propagandist's party intends to commit.
 
-## File
-- [[Marcus - Accusation in a Mirror.pdf\|Marcus - Accusation in a Mirror.pdf]]
 
-## Citation
-Marcus, Kenneth L. “Accusation in a Mirror.” _Loyola University of Chicago Law Journal_ 43 (2012): 357.
-
-# Notes
+# Reading notes
 
 *Note Relative a' la Propagande d'Expansion et de Recrutement*  (the *Note*) explained how to use AiM to whip up ordinary people to attack their neighbors.
 
@@ -46,5 +36,6 @@ Definition of Genocide, which is too narrow.
 - [[Research/Ideas/Human Rights as Rooted in Property Rights\|Human Rights as Rooted in Property Rights]]
 - [[Research/Ideas/Construction of Humanities\|Construction of Humanities]]
 - [[Research/Ideas/Examples of the Social Need to Quantify Human Value\|Examples of the Social Need to Quantify Human Value]]
-- [[Religion and the Problem of Definition from A Critical Introduction to the - Craig Martin.pdf\|Religion and the Problem of Definition from A Critical Introduction to the - Craig Martin.pdf]]
-- 
+- [[Research/Ideas/Humans and Persons\|Humans and Persons]]
+- [[Research/Reading Notes/hermanTraumaRecovery2015\|hermanTraumaRecovery2015]]
+- [[Research/Ideas/Map is not territory\|Map is not territory]]
