@@ -11,6 +11,6 @@ One version of this myth is diagrammed below, from the *Secret Book According to
 
 # References
 ## Internal
-- [[Class Notes/Whiteboards/Incomplete/Whiteboard - Classic Gnostic Myth\|Whiteboard - Classic Gnostic Myth]]
+- [[Class Notes/Whiteboards/Drawer/Whiteboard - Classic Gnostic Myth\|Whiteboard - Classic Gnostic Myth]]
 
 
