@@ -23,7 +23,7 @@
 # Other Discussions
 - [[Research/Ideas/Human Rights as Rooted in Property Rights\|Human Rights as Rooted in Property Rights]]
 - [[Research/Ideas/Construction of Humanities\|Construction of Humanities]]
-- [[Class Notes/Whiteboards/Complete/Diagram - Roman Bodies\|Diagram - Roman Bodies]]
+- [[Class Notes/Lectures/Whiteboards/Complete/Diagram - Roman Bodies\|Diagram - Roman Bodies]]
 - [[Research/Ideas/Models of the Body in Greco-Roman Society\|Models of the Body in Greco-Roman Society]]
 - 
 
