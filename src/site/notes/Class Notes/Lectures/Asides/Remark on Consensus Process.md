@@ -13,7 +13,7 @@ Graeber, David. “Some Remarks on Consensus.” Online resource. Occupy Wall St
 - Topical
 	- [[John Rawls\|John Rawls]]
 	- [[Graeber\|Graeber]]
-	- [[Class Notes/Lectures/Thought Experiment - Rawls Game\|Thought Experiment - Rawls Game]]
+	- [[Class Notes/Lectures/Drawer/Thought Experiment-Rawls Game\|Thought Experiment-Rawls Game]]
 - Vault Links
 	- [[Semester/FA22 Planning/FA22\|FA22]]
 	- [[Admin/MACC Tasks\|MACC Tasks]]
