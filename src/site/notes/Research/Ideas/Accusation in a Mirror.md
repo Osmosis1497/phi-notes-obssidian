@@ -38,4 +38,4 @@ Definition of Genocide, which is too narrow.
 - [[Research/Ideas/Examples of the Social Need to Quantify Human Value\|Examples of the Social Need to Quantify Human Value]]
 - [[Research/Ideas/Humans and Persons\|Humans and Persons]]
 - [[Research/Reading Notes/hermanTraumaRecovery2015\|hermanTraumaRecovery2015]]
-- [[Research/Ideas/Map is not territory\|Map is not territory]]
+- [[Class Notes/Lectures/Essay-Map is not territory\|Essay-Map is not territory]]
