@@ -6,5 +6,11 @@
 
 > Insistence on only acting in this society only in the ways we might act within an actually free society. [^1]
 
-References
-[^1]: Close paraphrase of Graeber, 2015-3-10 
+# References
+- Internal
+	- [[Freedom\|Freedom]]
+	- [[Research/Scholars/David Graeber\|David Graeber]]
+- External
+## Notes
+[^1]: Close paraphrase of Graeber, 2015-3-10
+
