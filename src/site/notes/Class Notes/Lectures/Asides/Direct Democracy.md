@@ -9,6 +9,7 @@
 # References
 - Internal
 	- [[Freedom\|Freedom]]
+	- [[Class Notes/Lectures/Asides/Law of Wild Asses\|Law of Wild Asses]]
 	- [[Research/Scholars/David Graeber\|David Graeber]]
 - External
 ## Notes
