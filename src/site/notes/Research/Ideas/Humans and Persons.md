@@ -9,7 +9,7 @@
 	- moral and political category
 
 # Problem
-> How can one the definitions of a biological category into those of a moral and political category without being arbitrary?
+> How can we argue for a change in moral status on the basis of biological status without being arbitrary?
 
 # Goal
 > Construct a definition of personhood that does not rely on biological distinctiveness. 
@@ -25,19 +25,4 @@
 - [[Research/Ideas/Construction of Humanities\|Construction of Humanities]]
 - [[Class Notes/Lectures/Whiteboards/Complete/Diagram - Roman Bodies\|Diagram - Roman Bodies]]
 - [[Research/Ideas/Models of the Body in Greco-Roman Society\|Models of the Body in Greco-Roman Society]]
-- 
-
-
-
-# Thought Experiment
-Put your guesses to the test!
-- 
-
-# References
-*incomplete*
-
-## Bibliography
-*Outside works cited or otherwise relevant.*
-- 
-
-## Notes
+[[Class Notes/Lectures/Outline-4 Views of the Self\|Outline-4 Views of the Self]]
