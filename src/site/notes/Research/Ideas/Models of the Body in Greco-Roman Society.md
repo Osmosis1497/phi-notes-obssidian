@@ -23,7 +23,7 @@ The key bit is that these *ideas* about bodies and gender were also imprinted on
 
 When we map the gender spectrum alongside the class spectrum in ancient Greco-Roman society, we find something like the below in the minds and structures of elite society.
 
-This grid helped them shape and contain the ways everyday people organized themselves in everything from market transactions to sexual practices. 
+This grid helped them shape and contain the ways everyday people organized themselves in everything from market transactions to sexual practices. Note that the categories themselves only really make sense when you consider from whose perspective all of our source material was written.  Hint, most of them are clustered in the same area of the chart.
 
 - From [[Class Notes/Lectures/Whiteboards/Complete/Diagram - Class and Gender Hierarchy in Greco-Roman Society\|Diagram - Class and Gender Hierarchy in Greco-Roman Society]].
 
