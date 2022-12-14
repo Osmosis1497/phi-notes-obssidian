@@ -25,4 +25,5 @@
 - [[Research/Ideas/Construction of Humanities\|Construction of Humanities]]
 - [[Class Notes/Lectures/Whiteboards/Complete/Diagram - Roman Bodies\|Diagram - Roman Bodies]]
 - [[Research/Ideas/Models of the Body in Greco-Roman Society\|Models of the Body in Greco-Roman Society]]
-[[Class Notes/Lectures/Outline-4 Views of the Self\|Outline-4 Views of the Self]]
+- [[Class Notes/Lectures/Essay-Map is not territory\|Essay-Map is not territory]]
+- 
