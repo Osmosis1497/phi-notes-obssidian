@@ -4,6 +4,9 @@
 
 This is the general course outline for the introduction to philosophy class. Each unit is generally 2-3 weeks long and due dates for 8.1-3 will be set early in the semester.
 
+# Textbook
+- [Introduction to Philosophy](https://openstax.org/books/introduction-philosophy/pages/1-introduction) ([PDF](https://assets.openstax.org/oscms-prodcms/media/documents/Introduction_to_Philosophy-WEB_cszrKYp.pdf))
+
 
 # Course Outline
 
