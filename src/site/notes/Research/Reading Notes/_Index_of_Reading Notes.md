@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research/reading-notes/index-of-reading-notes/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/research/reading-notes/index-of-reading-notes/","tags":["MOC","gardenEntry"]}
 ---
 
 # Reading Notes
