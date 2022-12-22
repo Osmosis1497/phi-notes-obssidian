@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/class-notes/outlines/index-of-outlines/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/class-notes/outlines/index-of-outlines/","tags":["MOC","gardenEntry"]}
 ---
 
 
