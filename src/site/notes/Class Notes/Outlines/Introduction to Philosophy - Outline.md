@@ -68,6 +68,8 @@ This is the general course outline for the introduction to philosophy class. Eac
 
 ---
 
-# Connections
-- [[Class Notes/Class Notes\|Class Notes]]
+# References
+## Internal
 - [[Class Notes/Outlines/_Index_of_Outlines\|_Index_of_Outlines]]
+## External
+- To be completed as semester unfolds.
