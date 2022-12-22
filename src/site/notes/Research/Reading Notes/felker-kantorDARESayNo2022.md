@@ -3,7 +3,7 @@
 ---
 
 
-# felker-kantorDARESayNo2022
+# DARE to Say No: Police and the Cultural Politics of Prevention in the War on Drugs
 
 # Citation
 Felker-Kantor, Max. “DARE to Say No: Police and the Cultural Politics of Prevention in the War on Drugs.” _Modern American History_, Dec. 2022, pp. 1–25. _Cambridge University Press_, [https://doi.org/10/grdsdn](https://doi.org/10/grdsdn).
