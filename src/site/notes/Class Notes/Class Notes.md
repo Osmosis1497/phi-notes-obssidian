@@ -41,13 +41,9 @@ When published, each class will have a general outline. When appropriate, links 
 - Lecture Artifacts
 	- [[Research/Artifacts/Bush-era letter from Energy CEOs\|Bush-era letter from Energy CEOs]]
 	- [[Research/Ideas/Accusation in a Mirror\|Accusation in a Mirror]]
-	- [[Class Notes/Lectures/Asides/Direct Democracy\|Direct Democracy]]
-	- [[Class Notes/Lectures/Asides/Law of Wild Asses\|Law of Wild Asses]]
 	- [[Research/Ideas/The Classic Gnostic Myth\|The Classic Gnostic Myth]]
 	- [[Class Notes/Lectures/Asides/Remark on Consensus Process\|Remark on Consensus Process]]
-	- [[Research/Ideas/Humans and Persons\|Humans and Persons]]
 	- [[Research/Ideas/Models of the Body in Greco-Roman Society\|Models of the Body in Greco-Roman Society]]
-	- [[Research/Maps and Diagrams/Map - Middle Ages Trade Networks c 1200 CE\|Map - Middle Ages Trade Networks c 1200 CE]]
 
 
 # Helpful Tools
