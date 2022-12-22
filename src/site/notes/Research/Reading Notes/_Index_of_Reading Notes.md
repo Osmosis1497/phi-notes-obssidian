@@ -15,10 +15,10 @@
 - [ ] 📄 [[Research/Reading Notes/hermanTraumaRecovery2015\|Research/Reading Notes/hermanTraumaRecovery2015.md]]
 - [ ] 📄 [[Research/Reading Notes/karatziasTreatingAdultsComplex2019\|Research/Reading Notes/karatziasTreatingAdultsComplex2019.md]]
 - [ ] 📄 [[Research/Reading Notes/landyBiasIgnoranceDemographic2018\|Research/Reading Notes/landyBiasIgnoranceDemographic2018.md]]
-- [ ] 📄 [[Research/Reading Notes/markArthashastra\|Research/Reading Notes/markArthashastra.md]]
-- [ ] 📄 [[Research/Reading Notes/mcleayMoneyCreationModern2014\|Research/Reading Notes/mcleayMoneyCreationModern2014.md]]
+- [ ] 📄 [[Research/Reading Notes/mcleayMoneyCreationModern2014-E6QIIN7I\|Research/Reading Notes/mcleayMoneyCreationModern2014-E6QIIN7I.md]]
 - [ ] 📄 [[Research/Reading Notes/patriciaa.resickCognitiveProcessingTherapy2016\|Research/Reading Notes/patriciaa.resickCognitiveProcessingTherapy2016.md]]
 - [ ] 📄 [[Research/Reading Notes/wengrowDawnEverythingNew2021\|Research/Reading Notes/wengrowDawnEverythingNew2021.md]]
+- [ ] 📄 [[Research/Reading Notes/whiteAynRandAdam2005-2LGQ4UY5\|Research/Reading Notes/whiteAynRandAdam2005-2LGQ4UY5.md]]
 - [ ] 🗂️ [[Research/Reading Notes/attachments/_Index_of_attachments.md\|Research/Reading Notes/attachments/_Index_of_attachments.md]]
 - [ ] 🗂️ [[Research/Reading Notes/Readings/_Index_of_Readings\|Research/Reading Notes/Readings/_Index_of_Readings.md]]
 
