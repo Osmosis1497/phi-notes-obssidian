@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/research/reading-notes/patriciaa-resick-cognitive-processing-therapy2016/","tags":"gardenEntry"}
 ---
 
-patriciaa.resickCognitiveProcessingTherapy2016
+# _Cognitive Processing Therapy for PTSD: A Comprehensive Manual_
 
 # Citation
 Patricia A. Resick, Candice M. Monson, and Kathleen M. Chard. 2016. _Cognitive Processing Therapy for PTSD: A Comprehensive Manual_. The Guilford Press.
