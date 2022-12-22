@@ -14,25 +14,30 @@ Keep in mind that mere *presence* of an idea or source here is in *no way* an in
 
 # Notes by Class
 When published, each class will have a general outline. When appropriate, links to additional readings, whiteboards, etc will be provided.
-- [[Class Notes/Outlines/Introduction to Philosophy - Outline\|Introduction to Philosophy - Outline]]
-- [[Class Notes/Outlines/Introduction to Ethics - Outline\|Introduction to Ethics - Outline]]
-- [[Class Notes/Outlines/Introduction to Logic - Outline\|Introduction to Logic - Outline]]
-- [[Class Notes/Outlines/Religions of the World - Outline\|Religions of the World - Outline]]
-- [[Class Notes/Outlines/Early Christian Sacred Texts - Outline\|Early Christian Sacred Texts - Outline]]
-- [[Class Notes/Outlines/Hebrew Bible - Outline\|Hebrew Bible - Outline]]
+- [[Class Notes/Outlines/_Index_of_Outlines\|_Index_of_Outlines]]
+- Sample
+	- [[Class Notes/Outlines/Introduction to Philosophy - Outline\|Introduction to Philosophy - Outline]]
 
 # Reading Notes
+These are my Zotero literature (reading) notes from selected sources I sometimes reference in class.  People are encouraged to double check both the source itself as well as my characterization. Better ones will be adopted. Literature notes are titled by citation key.
+
 - Full Index
 	- [[Research/Reading Notes/_Index_of_Reading Notes\|_Index_of_Reading Notes]]
 - Selected readings
-	- [[Research/Reading Notes/carringtonMinorityRightsGoverning2022\|carringtonMinorityRightsGoverning2022]]
-	- [[Research/Reading Notes/felker-kantorDARESayNo2022\|felker-kantorDARESayNo2022]]
-	- [[Research/Reading Notes/graeberDeadZonesImagination2012\|graeberDeadZonesImagination2012]]
-	- [[Research/Reading Notes/hermanTraumaRecovery2015\|hermanTraumaRecovery2015]]
-	- [[Research/Reading Notes/karatziasTreatingAdultsComplex2019\|karatziasTreatingAdultsComplex2019]]
-	- [[Research/Reading Notes/landyBiasIgnoranceDemographic2018\|landyBiasIgnoranceDemographic2018]]
-	- [[Research/Reading Notes/mcleayMoneyCreationModern2014\|mcleayMoneyCreationModern2014]]
-	- [[Research/Reading Notes/patriciaa.resickCognitiveProcessingTherapy2016\|patriciaa.resickCognitiveProcessingTherapy2016]]
+	- “DARE to Say No: Police and the Cultural Politics of Prevention in the War on Drugs.”
+		- [[Research/Reading Notes/felker-kantorDARESayNo2022\|felker-kantorDARESayNo2022]]
+	- “Dead Zones of the Imagination: On Violence, Bureaucracy, and Interpretive Labor."
+		- [[Research/Reading Notes/graeberDeadZonesImagination2012\|graeberDeadZonesImagination2012]]
+	- _Trauma and Recovery_
+		- [[Research/Reading Notes/hermanTraumaRecovery2015\|hermanTraumaRecovery2015]]
+	- "Treating Adults With Complex Posttraumatic Stress Disorder Using a Modular Approach to Treatment"
+		- [[Research/Reading Notes/karatziasTreatingAdultsComplex2019\|karatziasTreatingAdultsComplex2019]]
+	- "Bias and Ignorance in Demographic Perception"
+		- [[Research/Reading Notes/landyBiasIgnoranceDemographic2018\|landyBiasIgnoranceDemographic2018]]
+	- Money Creation in the Modern Economy
+		- [[Research/Reading Notes/mcleayMoneyCreationModern2014\|mcleayMoneyCreationModern2014]]
+	- _Cognitive Processing Therapy for PTSD: A Comprehensive Manual_
+		- [[Research/Reading Notes/patriciaa.resickCognitiveProcessingTherapy2016\|patriciaa.resickCognitiveProcessingTherapy2016]]
 
 # Other Selected Notes
 - Talk Notes
