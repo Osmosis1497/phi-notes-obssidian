@@ -35,7 +35,7 @@ These are my Zotero literature (reading) notes from selected sources I sometimes
 	- "Bias and Ignorance in Demographic Perception"
 		- [[Research/Reading Notes/landyBiasIgnoranceDemographic2018\|landyBiasIgnoranceDemographic2018]]
 	- Money Creation in the Modern Economy
-		- [[Research/Reading Notes/mcleayMoneyCreationModern2014\|mcleayMoneyCreationModern2014]]
+		- [[mcleayMoneyCreationModern2014\|mcleayMoneyCreationModern2014]]
 	- _Cognitive Processing Therapy for PTSD: A Comprehensive Manual_
 		- [[Research/Reading Notes/patriciaa.resickCognitiveProcessingTherapy2016\|patriciaa.resickCognitiveProcessingTherapy2016]]
 
