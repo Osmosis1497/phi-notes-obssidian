@@ -10,12 +10,6 @@
 
 [Go to annotation](zotero://open-pdf/library/items/YRZPDGDX?page=14&annotation=6EH5DZWJ)“Money creation in practice differs from some popular misconceptions — banks do not act simply as intermediaries, lending out deposits that savers place with them, and nor do they ‘multiply up’ central bank money to create new loans and deposits.” ([McLeay et al., 2014, p. 14](zotero://select/library/items/LI84BGWX))
 
-[Go to annotation](zotero://open-pdf/library/items/YRZPDGDX?page=14&annotation=RK4N5QHY)“The amount of money created in the economy ultimately depends on the monetary policy of the central bank. In normal times, this is carried out by setting interest rates. The central bank can also affect the amount of money directly through purchasing assets or ‘quantitative easing’.” ([McLeay et al., 2014, p. 14](zotero://select/library/items/LI84BGWX))
-
-[Go to annotation](zotero://open-pdf/library/items/YRZPDGDX?page=14&annotation=3QAF54WT)“Whenever a bank makes a loan, it” ([McLeay et al., 2014, p. 14](zotero://select/library/items/LI84BGWX))
-
-[Go to annotation](zotero://open-pdf/library/items/YRZPDGDX?page=14&annotation=IYDPSPJZ)“simultaneously creates a matching deposit in the” ([McLeay et al., 2014, p. 14](zotero://select/library/items/LI84BGWX))
-
-[Go to annotation](zotero://open-pdf/library/items/YRZPDGDX?page=14&annotation=YD7I9AJI)“borrower’s bank account, thereby creating new money.” ([McLeay et al., 2014, p. 14](zotero://select/library/items/LI84BGWX))
+[Go to annotation](zotero://open-pdf/library/items/YRZPDGDX?page=14&annotation=RK4N5QHY)“The amount of money created in the economy ultimately depends on the monetary policy of the central bank. In normal times, this is carried out by setting interest rates. The central bank can also affect the amount of money directly through purchasing assets or ‘quantitative easing’. Whenever a bank makes a loan, it simultaneously creates a matching deposit in the borrower’s bank account, thereby creating new money.” (McLeay et al., 2014, p. 14)
 
 [Go to annotation](zotero://open-pdf/library/items/YRZPDGDX?page=14&annotation=S4IQZ2JY)“Monetary policy acts as the ultimate limit on money creation.” ([McLeay et al., 2014, p. 14](zotero://select/library/items/LI84BGWX))
