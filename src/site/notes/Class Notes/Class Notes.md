@@ -13,9 +13,28 @@ Keep in mind that mere *presence* of an idea or source here is in *no way* an in
  Source are cited and linked when possible.  Please contact me if you find something amiss. If you provide some sources and are convincing, I'll certainly update things.
 
 # Notes by Class
-- [[Semester/Outlines/Introduction to Philosophy - Outline\|Introduction to Philosophy - Outline]]
+When published, each class will have a general outline. When appropriate, links to additional readings, whiteboards, etc will be provided.
+- [[Class Notes/Outlines/Introduction to Philosophy - Outline\|Introduction to Philosophy - Outline]]
+- [[Class Notes/Outlines/Introduction to Ethics - Outline\|Introduction to Ethics - Outline]]
+- [[Class Notes/Outlines/Introduction to Logic - Outline\|Introduction to Logic - Outline]]
+- [[Class Notes/Outlines/Religions of the World - Outline\|Religions of the World - Outline]]
+- [[Class Notes/Outlines/Early Christian Sacred Texts - Outline\|Early Christian Sacred Texts - Outline]]
+- [[Class Notes/Outlines/Hebrew Bible - Outline\|Hebrew Bible - Outline]]
 
-# Selected Other Notes
+# Reading Notes
+- Full Index
+	- [[Research/Reading Notes/_Index_of_Reading Notes\|_Index_of_Reading Notes]]
+- Selected readings
+	- [[Research/Reading Notes/carringtonMinorityRightsGoverning2022\|carringtonMinorityRightsGoverning2022]]
+	- [[Research/Reading Notes/felker-kantorDARESayNo2022\|felker-kantorDARESayNo2022]]
+	- [[Research/Reading Notes/graeberDeadZonesImagination2012\|graeberDeadZonesImagination2012]]
+	- [[Research/Reading Notes/hermanTraumaRecovery2015\|hermanTraumaRecovery2015]]
+	- [[Research/Reading Notes/karatziasTreatingAdultsComplex2019\|karatziasTreatingAdultsComplex2019]]
+	- [[Research/Reading Notes/landyBiasIgnoranceDemographic2018\|landyBiasIgnoranceDemographic2018]]
+	- [[Research/Reading Notes/mcleayMoneyCreationModern2014\|mcleayMoneyCreationModern2014]]
+	- [[Research/Reading Notes/patriciaa.resickCognitiveProcessingTherapy2016\|patriciaa.resickCognitiveProcessingTherapy2016]]
+
+# Other Selected Notes
 - Talk Notes
 	- [[Class Notes/Lectures/Summary-Tense Talk as Suspended Schizmogenesis\|Summary-Tense Talk as Suspended Schizmogenesis]]
 	- [[Class Notes/Lectures/Essay-Map is not territory\|Essay-Map is not territory]]
@@ -29,13 +48,7 @@ Keep in mind that mere *presence* of an idea or source here is in *no way* an in
 	- [[Research/Ideas/Humans and Persons\|Humans and Persons]]
 	- [[Research/Ideas/Models of the Body in Greco-Roman Society\|Models of the Body in Greco-Roman Society]]
 	- [[Research/Maps and Diagrams/Map - Middle Ages Trade Networks c 1200 CE\|Map - Middle Ages Trade Networks c 1200 CE]]
-- Reading Notes
-	- [[Research/Reading Notes/felker-kantorDARESayNo2022\|felker-kantorDARESayNo2022]]
-	- [[Research/Reading Notes/graeberDeadZonesImagination2012\|Research/Reading Notes/graeberDeadZonesImagination2012]]
-	- [[Research/Reading Notes/hermanTraumaRecovery2015\|hermanTraumaRecovery2015]]
-	- [[Research/Reading Notes/karatziasTreatingAdultsComplex2019\|karatziasTreatingAdultsComplex2019]]
-	- [[Research/Reading Notes/patriciaa.resickCognitiveProcessingTherapy2016\|Research/Reading Notes/patriciaa.resickCognitiveProcessingTherapy2016]]
-	- 
+
 
 # Helpful Tools
 Here are some great learning tools. 
