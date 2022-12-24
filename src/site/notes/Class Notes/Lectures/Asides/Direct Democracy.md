@@ -10,7 +10,7 @@
 - Internal
 	- [[Freedom\|Freedom]]
 	- [[Class Notes/Lectures/Asides/Law of Wild Asses\|Law of Wild Asses]]
-	- [[Research/Scholars/David Graeber\|David Graeber]]
+	- [[Research/Reading Notes/Scholars/David Graeber\|David Graeber]]
 - External
 ## Notes
 [^1]: Close paraphrase of Graeber, 2015-3-10
