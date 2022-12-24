@@ -25,26 +25,26 @@ These are my Zotero literature (reading) notes from selected sources I sometimes
 	- [[Research/Reading Notes/_Index_of_Reading Notes\|_Index_of_Reading Notes]]
 - Selected readings
 	- “DARE to Say No: Police and the Cultural Politics of Prevention in the War on Drugs.”
-		- [[Research/Reading Notes/felker-kantorDARESayNo2022\|felker-kantorDARESayNo2022]]
+		- [[felker-kantorDARESayNo2022\|felker-kantorDARESayNo2022]]
 	- “Dead Zones of the Imagination: On Violence, Bureaucracy, and Interpretive Labor."
-		- [[Research/Reading Notes/graeberDeadZonesImagination2012\|graeberDeadZonesImagination2012]]
+		- [[graeberDeadZonesImagination2012 1\|graeberDeadZonesImagination2012 1]]
 	- _Trauma and Recovery_
-		- [[Research/Reading Notes/hermanTraumaRecovery2015\|hermanTraumaRecovery2015]]
+		- [[hermanTraumaRecovery2015 1\|hermanTraumaRecovery2015 1]]
 	- "Treating Adults With Complex Posttraumatic Stress Disorder Using a Modular Approach to Treatment"
 		- [[Research/Reading Notes/karatziasTreatingAdultsComplex2019\|karatziasTreatingAdultsComplex2019]]
 	- "Bias and Ignorance in Demographic Perception"
-		- [[Research/Reading Notes/landyBiasIgnoranceDemographic2018\|landyBiasIgnoranceDemographic2018]]
+		- [[landyBiasIgnoranceDemographic2018\|landyBiasIgnoranceDemographic2018]]
 	- Money Creation in the Modern Economy
 		- [[mcleayMoneyCreationModern2014\|mcleayMoneyCreationModern2014]]
 	- _Cognitive Processing Therapy for PTSD: A Comprehensive Manual_
-		- [[Research/Reading Notes/patriciaa.resickCognitiveProcessingTherapy2016\|patriciaa.resickCognitiveProcessingTherapy2016]]
+		- [[patriciaa.resickCognitiveProcessingTherapy2016\|patriciaa.resickCognitiveProcessingTherapy2016]]
 
 # Other Selected Notes
 - Talk Notes
 	- [[Class Notes/Lectures/Summary-Tense Talk as Suspended Schizmogenesis\|Summary-Tense Talk as Suspended Schizmogenesis]]
 	- [[Class Notes/Lectures/Essay-Map is not territory\|Essay-Map is not territory]]
 - Lecture Artifacts
-	- [[Research/Artifacts/Bush-era letter from Energy CEOs\|Bush-era letter from Energy CEOs]]
+	- [[Research/Ideas/Artifacts/Bush-era letter from Energy CEOs\|Bush-era letter from Energy CEOs]]
 	- [[Research/Ideas/Accusation in a Mirror\|Accusation in a Mirror]]
 	- [[Research/Ideas/The Classic Gnostic Myth\|The Classic Gnostic Myth]]
 	- [[Class Notes/Lectures/Asides/Remark on Consensus Process\|Remark on Consensus Process]]
