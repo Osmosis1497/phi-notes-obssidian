@@ -15,11 +15,6 @@ A new note will be created in this folder.  You can use the same command to upda
 
 
 - [ ] 📄 [[Research/Reading Notes/brakkeGnosticScriptures2021\|Research/Reading Notes/brakkeGnosticScriptures2021.md]]
-- [ ] 📄 [[Research/Reading Notes/frankOpenAccessPublishing2023\|Research/Reading Notes/frankOpenAccessPublishing2023.md]]
-- [ ] 📄 [[Research/Reading Notes/graeberAllEconomiesAre2021\|Research/Reading Notes/graeberAllEconomiesAre2021.md]]
-- [ ] 📄 [[Research/Reading Notes/hermanTraumaRecovery2015\|Research/Reading Notes/hermanTraumaRecovery2015.md]]
-- [ ] 📄 [[Research/Reading Notes/karatziasTreatingAdultsComplex2019\|Research/Reading Notes/karatziasTreatingAdultsComplex2019.md]]
-- [ ] 📄 [[Research/Reading Notes/wengrowRethinkingCitiesGround\|Research/Reading Notes/wengrowRethinkingCitiesGround.md]]
 - [ ] 🗂️ [[Research/Reading Notes/attachments/_Index_of_attachments.md\|Research/Reading Notes/attachments/_Index_of_attachments.md]]
 - [ ] 🗂️ [[Research/Reading Notes/Readings/_Index_of_Readings\|Research/Reading Notes/Readings/_Index_of_Readings.md]]
 - [ ] 🗂️ [[Research/Reading Notes/Scholars/_Index_of_Scholars\|Research/Reading Notes/Scholars/_Index_of_Scholars.md]]
