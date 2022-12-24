@@ -31,7 +31,7 @@ These are my Zotero literature (reading) notes from selected sources I sometimes
 	- _Trauma and Recovery_
 		- [[hermanTraumaRecovery2015 1\|hermanTraumaRecovery2015 1]]
 	- "Treating Adults With Complex Posttraumatic Stress Disorder Using a Modular Approach to Treatment"
-		- [[Research/Reading Notes/karatziasTreatingAdultsComplex2019\|karatziasTreatingAdultsComplex2019]]
+		- [[karatziasTreatingAdultsComplex2019\|karatziasTreatingAdultsComplex2019]]
 	- "Bias and Ignorance in Demographic Perception"
 		- [[landyBiasIgnoranceDemographic2018\|landyBiasIgnoranceDemographic2018]]
 	- Money Creation in the Modern Economy
