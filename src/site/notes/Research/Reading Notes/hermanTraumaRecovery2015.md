@@ -48,7 +48,7 @@
 > [Page 102](zotero://open-pdf/library/items/TTBBLYN7?page=102) [[Personal/Personal/Daily/2022-11-27#11:28 am\|2022-11-27#11:28 am]]
 
 > [!quote] Highlight
-> o the chronically traumatized person, any action has potentially dire consequences. There is no room for mistakes. Rosencof describes his constant expectation of punishment: “I’m in a perpetual cringe.I’m constantly stopping tolet whoever is behind me pass: my body keeps expecting a blow.
+> To the chronically traumatized person, any action has potentially dire consequences. There is no room for mistakes. Rosencof describes his constant expectation of punishment: “I’m in a perpetual cringe. I’m constantly stopping to let whoever is behind me pass: my body keeps expecting a blow.
 >
 > [Page 102](zotero://open-pdf/library/items/TTBBLYN7?page=102) [[Personal/Personal/Daily/2022-11-27#11:29 am\|2022-11-27#11:29 am]]
 
@@ -78,7 +78,7 @@
 > [Page 101](zotero://open-pdf/library/items/TTBBLYN7?page=101) [[Personal/Personal/Daily/2022-12-24#6:58 am\|2022-12-24#6:58 am]]
 
 > [!quote] Highlight
-> The worst fearof any traumatizedpersonis that the momentof horror will recur, and this fear is realized in victims of chronic abuse
+> The worst fear of any traumatized person is that the moment of horror will recur, and this fear is realized in victims of chronic abuse
 >
 > [Page 97](zotero://open-pdf/library/items/TTBBLYN7?page=97) [[Personal/Personal/Daily/2022-11-27#11:27 am\|2022-11-27#11:27 am]]
 
