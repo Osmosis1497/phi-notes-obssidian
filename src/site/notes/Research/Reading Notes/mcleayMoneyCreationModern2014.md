@@ -97,27 +97,12 @@
 > [Page 2](zotero://open-pdf/library/items/YRZPDGDX?page=2) [[Personal/Personal/Daily/2022-12-22#8:58 am\|2022-12-22#8:58 am]]
 
 > [!quote] Highlight
-> If the consumer were then to pay their credit card
->
-> [Page 3](zotero://open-pdf/library/items/YRZPDGDX?page=3) [[Personal/Personal/Daily/2022-12-24#6:12 am\|2022-12-24#6:12 am]]
-
-> [!quote] Highlight
-> bill in full at the end of the month, its bank would reduce the amount of deposits in the consumer’s account by the value of the credit card bill, thus destroying all of the newly created money.
+> If the consumer were then to pay their credit card bill in full at the end of the month, its bank would reduce the amount of deposits in the consumer’s account by the value of the credit card bill, thus destroying all of the newly created money.
 >
 > [Page 4](zotero://open-pdf/library/items/YRZPDGDX?page=4) [[Personal/Personal/Daily/2022-12-24#6:12 am\|2022-12-24#6:12 am]]
 
 > [!quote] Highlight
-> Whenever a bank makes a loan, it
->
-> [Page 1](zotero://open-pdf/library/items/YRZPDGDX?page=1) [[Personal/Personal/Daily/2022-12-22#12:16 am\|2022-12-22#12:16 am]]
-
-> [!quote] Highlight
-> simultaneously creates a matching deposit in the
->
-> [Page 1](zotero://open-pdf/library/items/YRZPDGDX?page=1) [[Personal/Personal/Daily/2022-12-22#12:16 am\|2022-12-22#12:16 am]]
-
-> [!quote] Highlight
-> borrower’s bank account, thereby creating new money.
+> Whenever a bank makes a loan, it simultaneously creates a matching deposit in the  borrower’s bank account, thereby creating new money.
 >
 > [Page 1](zotero://open-pdf/library/items/YRZPDGDX?page=1) [[Personal/Personal/Daily/2022-12-22#12:16 am\|2022-12-22#12:16 am]]
 
