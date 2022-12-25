@@ -16,6 +16,7 @@ A new note will be created in this folder.  You can use the same command to upda
 
 - [ ] 📄 [[Research/Reading Notes/frankOpenAccessPublishing2023\|Research/Reading Notes/frankOpenAccessPublishing2023.md]]
 - [ ] 📄 [[Research/Reading Notes/hermanTraumaRecovery2015\|Research/Reading Notes/hermanTraumaRecovery2015.md]]
+- [ ] 📄 [[Research/Reading Notes/waitegaryk.ApocalypticCrusadersAnabaptist1989\|Research/Reading Notes/waitegaryk.ApocalypticCrusadersAnabaptist1989.md]]
 - [ ] 📄 [[Research/Reading Notes/wengrowDawnEverythingNew2021\|Research/Reading Notes/wengrowDawnEverythingNew2021.md]]
 - [ ] 🗂️ [[Research/Reading Notes/attachments/_Index_of_attachments.md\|Research/Reading Notes/attachments/_Index_of_attachments.md]]
 - [ ] 🗂️ [[Research/Reading Notes/https - /_Index_of_https - \|Research/Reading Notes/https - /_Index_of_https - .md]]
