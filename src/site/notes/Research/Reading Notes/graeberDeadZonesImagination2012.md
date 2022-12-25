@@ -8,7 +8,8 @@ cssclass: literature-note
 alias: ["Dead zones of the imagination"]
 ---
 
-> [!info]
+# Record
+
 > - **Cite Key:** [[@graeberDeadZonesImagination2012\|@graeberDeadZonesImagination2012]]
 > - **Link:** [Graeber - 2012 - Dead zones of the imagination on violence, bureau.pdf](file://C:\Users\Henry%20Imler\OneDrive\Library\Zotero%20PDFs\Graeber%20-%202012%20-%20Dead%20zones%20of%20the%20imagination%20on%20violence,%20bureau.pdf)
 > - **Abstract:** The experience of bureaucratic incompetence, confusion, and its ability to cause otherwise intelligent people to behave outright foolishly, opens up a series of questions about the nature of power or, more specifically, structural violence. The unique qualities of violence as a form of action means that human relations ultimately founded on violence create lopsided structures of the imagination, where the responsibility to do the interpretive labor required to allow the powerful to operate oblivious to much of what is going on around them, falls on the powerless, who thus tend to empathize with the powerful far more than the powerful do with them. The bureaucratic imposition of simple categorical schemes on the world is a way of managing the fundamental stupidity of such situations. In the hands of social theorists, such simplified schemas can be sources of insight; when enforced through structures of coercion, they tend to have precisely the opposite effect.
@@ -16,7 +17,7 @@ alias: ["Dead zones of the imagination"]
 
 ## Annotations
 
-### Imported on 2022-12-24 5:19 pm
+### Imported on 2022-12-24 10:44 pm
 
 > [!quote] Highlight
 > By “violence” here, I am not referring to the kind of occasional, spectacular acts of violence that we tend to think of first when the word is invoked, but again, the boring, humdrum, yet omnipresent forms of structural violence that define the very conditions of our existence, the subtle or not-so-subtle threats of physical force that lie behind everything from enforcing rules about where one is allowed to
