@@ -68,7 +68,7 @@
 > [Page 98](zotero://open-pdf/library/items/TTBBLYN7?page=98) [[Personal/Personal/Daily/2022-11-27#3:01 pm\|2022-11-27#3:01 pm]]
 
 > [!quote] Highlight
-> hrough the practice of dissociation, voluntary.thought suppression, minimization, and sometimes outright denial, they learn to alter an unbearable reality
+> Through the practice of dissociation, voluntary thought suppression, minimization, and sometimes outright denial, they learn to alter an unbearable reality
 >
 > [Page 98](zotero://open-pdf/library/items/TTBBLYN7?page=98) [[Personal/Personal/Daily/2022-11-27#3:01 pm\|2022-11-27#3:01 pm]]
 
