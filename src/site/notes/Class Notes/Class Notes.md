@@ -20,24 +20,7 @@ When published, each class will have a general outline. When appropriate, links 
 
 # Reading Notes
 These are my Zotero literature (reading) notes from selected sources I sometimes reference in class.  People are encouraged to double check both the source itself as well as my characterization. Better ones will be adopted. Literature notes are titled by citation key.
-
-- Full Index
 	- [[Research/Reading Notes/_Index_of_Reading Notes\|_Index_of_Reading Notes]]
-- Selected readings
-	- “DARE to Say No: Police and the Cultural Politics of Prevention in the War on Drugs.”
-		- [[felker-kantorDARESayNo2022\|felker-kantorDARESayNo2022]]
-	- “Dead Zones of the Imagination: On Violence, Bureaucracy, and Interpretive Labor."
-		- [[graeberDeadZonesImagination2012 1\|graeberDeadZonesImagination2012 1]]
-	- _Trauma and Recovery_
-		- [[hermanTraumaRecovery2015 1\|hermanTraumaRecovery2015 1]]
-	- "Treating Adults With Complex Posttraumatic Stress Disorder Using a Modular Approach to Treatment"
-		- [[karatziasTreatingAdultsComplex2019\|karatziasTreatingAdultsComplex2019]]
-	- "Bias and Ignorance in Demographic Perception"
-		- [[landyBiasIgnoranceDemographic2018\|landyBiasIgnoranceDemographic2018]]
-	- Money Creation in the Modern Economy
-		- [[Research/Reading Notes/mcleayMoneyCreationModern2014\|mcleayMoneyCreationModern2014]]
-	- _Cognitive Processing Therapy for PTSD: A Comprehensive Manual_
-		- [[patriciaa.resickCognitiveProcessingTherapy2016\|patriciaa.resickCognitiveProcessingTherapy2016]]
 
 # Other Selected Notes
 - Talk Notes
