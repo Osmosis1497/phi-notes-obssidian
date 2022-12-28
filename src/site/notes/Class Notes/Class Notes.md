@@ -21,6 +21,16 @@ When published, each class will have a general outline. When appropriate, links 
 # Reading Notes
 These are my Zotero literature (reading) notes from selected sources I sometimes reference in class.  People are encouraged to double check both the source itself as well as my characterization. Better ones will be adopted. Literature notes are titled by citation key.
 	- [[Research/Reading Notes/_Index_of_Reading Notes\|_Index_of_Reading Notes]]
+		- [[Research/Reading Notes/brakkeGnosticScriptures2021\|brakkeGnosticScriptures2021]]
+		- [[Research/Reading Notes/crossFormalSociologyOnline2019\|crossFormalSociologyOnline2019]]
+		- [[Research/Reading Notes/frankOpenAccessPublishing2023\|frankOpenAccessPublishing2023]]
+		- [[Research/Reading Notes/haesookimWhenDoesIt2022\|haesookimWhenDoesIt2022]]
+		- [[Research/Reading Notes/hermanTraumaRecovery2015\|hermanTraumaRecovery2015]]
+		- [[Research/Reading Notes/mcleayMoneyCreationModern2014\|mcleayMoneyCreationModern2014]]
+		- [[Research/Reading Notes/waitegaryk.ApocalypticCrusadersAnabaptist1989\|waitegaryk.ApocalypticCrusadersAnabaptist1989]]
+		- [[Research/Reading Notes/wengrowDawnEverythingNew2021\|wengrowDawnEverythingNew2021]]
+		- [[Research/Reading Notes/wengrowRethinkingCitiesGround\|wengrowRethinkingCitiesGround]]
+		- [[Research/Reading Notes/who-ficfoundationComplexPostTraumaticStress2021\|who-ficfoundationComplexPostTraumaticStress2021]]
 
 # Other Selected Notes
 - Talk Notes
