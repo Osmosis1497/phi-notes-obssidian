@@ -10,11 +10,13 @@ These are selected collections of highlights and other annotations from my Zoter
 
 
 - [ ] 📄 [[Research/Reading Notes/Beer in Egypt\|Research/Reading Notes/Beer in Egypt.md]]
+- [ ] 📄 [[Research/Reading Notes/benderDangersStochasticParrots2021\|Research/Reading Notes/benderDangersStochasticParrots2021.md]]
 - [ ] 📄 [[Research/Reading Notes/brakkeGnosticScriptures2021\|Research/Reading Notes/brakkeGnosticScriptures2021.md]]
 - [ ] 📄 [[Research/Reading Notes/crossFormalSociologyOnline2019\|Research/Reading Notes/crossFormalSociologyOnline2019.md]]
 - [ ] 📄 [[Research/Reading Notes/frankOpenAccessPublishing2023\|Research/Reading Notes/frankOpenAccessPublishing2023.md]]
 - [ ] 📄 [[Research/Reading Notes/haesookimWhenDoesIt2022\|Research/Reading Notes/haesookimWhenDoesIt2022.md]]
 - [ ] 📄 [[Research/Reading Notes/hermanTraumaRecovery2015\|Research/Reading Notes/hermanTraumaRecovery2015.md]]
+- [ ] 📄 [[Research/Reading Notes/MatteGlossVarnishes\|Research/Reading Notes/MatteGlossVarnishes.md]]
 - [ ] 📄 [[Research/Reading Notes/mcleayMoneyCreationModern2014\|Research/Reading Notes/mcleayMoneyCreationModern2014.md]]
 - [ ] 📄 [[Research/Reading Notes/waitegaryk.ApocalypticCrusadersAnabaptist1989\|Research/Reading Notes/waitegaryk.ApocalypticCrusadersAnabaptist1989.md]]
 - [ ] 📄 [[Research/Reading Notes/wengrowDawnEverythingNew2021\|Research/Reading Notes/wengrowDawnEverythingNew2021.md]]
