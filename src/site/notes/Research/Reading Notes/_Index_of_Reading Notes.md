@@ -9,7 +9,6 @@ These are selected collections of highlights and other annotations from my Zoter
 *Some of these are published, some are not. All are titled by a auto-generated citation key.  Full citation and selected annotations are found behind each link. 
 
 
-- [ ] 📄 [[Research/Reading Notes/Beer in Egypt\|Research/Reading Notes/Beer in Egypt.md]]
 - [ ] 📄 [[Research/Reading Notes/benderDangersStochasticParrots2021\|Research/Reading Notes/benderDangersStochasticParrots2021.md]]
 - [ ] 📄 [[Research/Reading Notes/brakkeGnosticScriptures2021\|Research/Reading Notes/brakkeGnosticScriptures2021.md]]
 - [ ] 📄 [[Research/Reading Notes/crossFormalSociologyOnline2019\|Research/Reading Notes/crossFormalSociologyOnline2019.md]]
