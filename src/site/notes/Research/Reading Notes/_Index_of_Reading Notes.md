@@ -13,6 +13,7 @@ These are selected collections of highlights and other annotations from my Zoter
 - [ ] 📄 [[Research/Reading Notes/brakkeGnosticScriptures2021\|Research/Reading Notes/brakkeGnosticScriptures2021.md]]
 - [ ] 📄 [[Research/Reading Notes/crossFormalSociologyOnline2019\|Research/Reading Notes/crossFormalSociologyOnline2019.md]]
 - [ ] 📄 [[Research/Reading Notes/frankOpenAccessPublishing2023\|Research/Reading Notes/frankOpenAccessPublishing2023.md]]
+- [ ] 📄 [[Research/Reading Notes/freirePedagogyOppressed50th2018\|Research/Reading Notes/freirePedagogyOppressed50th2018.md]]
 - [ ] 📄 [[Research/Reading Notes/haesookimWhenDoesIt2022\|Research/Reading Notes/haesookimWhenDoesIt2022.md]]
 - [ ] 📄 [[Research/Reading Notes/hermanTraumaRecovery2015\|Research/Reading Notes/hermanTraumaRecovery2015.md]]
 - [ ] 📄 [[Research/Reading Notes/MatteGlossVarnishes\|Research/Reading Notes/MatteGlossVarnishes.md]]
