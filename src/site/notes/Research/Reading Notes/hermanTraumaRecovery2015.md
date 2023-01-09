@@ -18,14 +18,6 @@
 
 ### Imported on 2022-12-24 11:13 pm
 
-> [!quote] Note
->
-> [Page 25](zotero://open-pdf/library/items/TTBBLYN7?page=25) [[Personal/Journal/drawer/2022-11-27#11:20 am\|2022-11-27#11:20 am]]
-
-> [!quote] Note
->
-> [Page 25](zotero://open-pdf/library/items/TTBBLYN7?page=25) [[2020-07-11#7:35 am\|2020-07-11#7:35 am]]
-
 > [!quote] Highlight
 > Once the perpetrator has succeeded in establishing day-to-day bodily control of the victim, he becomes a source not only of fear and humiliation but also of solace. The hope of a meal, a bath, a kind word, or some other ordinary creature comfort can become compelling to a person long enough deprived.
 >> Contradiction of the body's hope
