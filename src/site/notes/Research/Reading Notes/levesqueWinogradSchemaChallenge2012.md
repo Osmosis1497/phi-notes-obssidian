@@ -43,17 +43,17 @@
 > [!quote] Highlight
 > The deception works at least in part because we are extremely forgiving in terms of what we will accept as legitimate conversation.
 >
-> [Page 1](zotero://open-pdf/library/items/A6HKB5AR?page=1) [[2023-01-09#8:36 am\|2023-01-09#8:36 am]]
+> [Page 1](zotero://open-pdf/library/items/A6HKB5AR?page=1) [[Readings Drawer#8:36 am\|Readings Drawer#8:36 am]]
 
 > [!quote] Highlight
 > What is striking about transcripts of these conversations is the fluidity of the responses from the subjects: elaborate wordplay, puns, jokes, quotations, clever asides, emotional outbursts, points of order. Everything, it would seem, except clear and direct
 >
-> [Page 1](zotero://open-pdf/library/items/A6HKB5AR?page=1) [[2023-01-09#8:37 am\|2023-01-09#8:37 am]]
+> [Page 1](zotero://open-pdf/library/items/A6HKB5AR?page=1) [[Readings Drawer#8:37 am\|Readings Drawer#8:37 am]]
 
 > [!quote] Highlight
 > answers to questions. And how is an interrogator supposed to deal with this evasiveness and determine whether or not there is any real comprehension behind the verbal acrobatics?
 >
-> [Page 2](zotero://open-pdf/library/items/A6HKB5AR?page=2) [[2023-01-09#8:37 am\|2023-01-09#8:37 am]]
+> [Page 2](zotero://open-pdf/library/items/A6HKB5AR?page=2) [[Readings Drawer#8:37 am\|Readings Drawer#8:37 am]]
 
 > [!quote] Highlight
 > correct answer is obvious to the human reader, but cannot easily be found using selectional restrictions or statistical techniques over text corpora
@@ -63,7 +63,7 @@
 > [!quote] Highlight
 > The sort of behaviour he had in mind was participating in a natural conversation in English over a teletype in what he calls the Imitation Game.
 >
-> [Page 1](zotero://open-pdf/library/items/A6HKB5AR?page=1) [[2023-01-09#8:35 am\|2023-01-09#8:35 am]]
+> [Page 1](zotero://open-pdf/library/items/A6HKB5AR?page=1) [[Readings Drawer#8:35 am\|Readings Drawer#8:35 am]]
 
 > [!quote] Highlight
 > fool her into thinking she is dealing with a person
@@ -78,7 +78,7 @@
 > [!quote] Highlight
 > required thought in people
 >
-> [Page 1](zotero://open-pdf/library/items/A6HKB5AR?page=1) [[2023-01-09#8:36 am\|2023-01-09#8:36 am]]
+> [Page 1](zotero://open-pdf/library/items/A6HKB5AR?page=1) [[Readings Drawer#8:36 am\|Readings Drawer#8:36 am]]
 
 
 
