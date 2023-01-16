@@ -8,14 +8,6 @@ This is the general course outline for the introduction to philosophy class. Eac
 - [Introduction to Philosophy](https://openstax.org/books/introduction-philosophy/pages/1-introduction) ([PDF](https://assets.openstax.org/oscms-prodcms/media/documents/Introduction_to_Philosophy-WEB_cszrKYp.pdf))
 
 # Grading
-![[SP23 Grading.canvas\|SP23 Grading.canvas]]
-
-![[Category - Basic Knowledge and Engagement.canvas\|Category - Basic Knowledge and Engagement.canvas]]
-
-
-![[Category - Critical Thinking and Writing Process.canvas\|Category - Critical Thinking and Writing Process.canvas]]
-
-
 
 # Course Outline
 
