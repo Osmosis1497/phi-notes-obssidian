@@ -28,7 +28,7 @@
 >> Core Impacts of Complex PTSD
 
 >
-> [Page 1](zotero://open-pdf/library/items/HZPPLYTU?page=1) [[2022-12-22#1:39 pm\|2022-12-22#1:39 pm]]
+> [Page 1](zotero://open-pdf/library/items/HZPPLYTU?page=1) [[Personal/Journal/drawer/2022-12-22#1:39 pm\|2022-12-22#1:39 pm]]
 
 > [!quote] Highlight  
 > Re-experiencing the traumatic event after the traumatic event has occurred,
