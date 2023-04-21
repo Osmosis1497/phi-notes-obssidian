@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teaching/class-notes/","title":"Class Notes","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/teaching/class-notes/","title":"In-Class Notes","tags":["gardenEntry"]}
 ---
 
 
@@ -16,37 +16,15 @@ Keep in mind that mere *presence* of an idea or source here is in not an indicat
 
 Source are cited and linked when possible. Please contact me if you find something amiss. If you provide some sources and are convincing, I'll certainly update things.
 
-## Selected Whiteboard Screenshots
+## In-Class Notes
 
-Below are some screencaps of whiteboards used in class. Feel free to OCR or otherwise recreate and remix.
+Below are *some* of the notes we used in class this semester.
 
-- [[Teaching/Selected Whiteboards\|Selected Whiteboards]] [^1]
+- [[Teaching/Selected Whiteboards\|Selected Whiteboards]] [^1] - Below are some screencaps of whiteboards used in class. Feel free to OCR or otherwise recreate and remix.
+- [[Teaching/Selected Outlines\|Selected Outlines]] [^2] - Below are various outlines used in class. Do not consider them *holistic* examinations of the topic, but instead what we highlighted or used as artifacts for discussion in class.
+- [[Teaching/Selected Lit Notes\|Selected Lit Notes]] [^3] - These are my Zotero literature (reading) notes from selected sources I sometimes reference in class. The quotations in the lit. notes are highlights and comments from PDFs and aren't necessarily a good guide to the work as a whole. Provide this to encourage students to double-check and expand upon the resources in class for their own papers Literature notes are titled by citation key.
 
-## Selected Outlines
-
-Below are various outlines used in class. Do not consider them *holistic* examinations of the topic, but instead what we highlighted or used as artifacts for discussion in class.
-
-- [[Teaching/Selected Outlines\|Selected Outlines]] [^2]
-
-## Selected Literature Notes
-
-These are my Zotero literature (reading) notes from selected sources I sometimes reference in class. The quotations in the lit. notes are highlights and comments from PDFs and aren't necessarily a good guide to the work as a whole. Provide this to encourage students to double-check and expand upon the resources in class for their own papers Literature notes are titled by citation key.
-
-- [[Selected Lit Notes\|Selected Lit Notes]] [^3]
-
-## Other Selected Notes
-
-- Talk Notes
-	- [[Teaching/Lectures/Outlines/Theory-Tense Talk as Suspended Schizmogenesis-Lecture-Outline\|Theory-Tense Talk as Suspended Schizmogenesis-Lecture-Outline]]
-	- [[Teaching/Lectures/elements/unreviewed/Essay-Map is not territory\|Essay-Map is not territory]]
-- Lecture Artifacts
-	- [[Research/Ideas/Artifacts/Bush-era letter from Energy CEOs\|Bush-era letter from Energy CEOs]]
-	- [[Research/Ideas/Accusation in a Mirror\|Accusation in a Mirror]]
-	- [[Research/Ideas/The Classic Gnostic Myth\|The Classic Gnostic Myth]]
-	- [[Teaching/Lectures/elements/unreviewed/Remark on Consensus Process\|Remark on Consensus Process]]
-	- [[Research/Ideas/Models of the Body in Greco-Roman Society\|Models of the Body in Greco-Roman Society]]
-
-## Helpful Tools
+### Helpful Tools
 
 Here are some great learning tools.
 
@@ -54,7 +32,7 @@ Here are some great learning tools.
 - [Personal Wiki - Obsidian](https://obsidian.md) - You can easily create a second-brain of notes. You literally build your own wikipedia out of simple text notes. Makes writing a breeze if you use Ahren's strategy here: [Notetaking method I use in my PhD](https://www.youtube.com/watch?v=L9SLlxaEEXY)
 - [Research Manager - Zotero](https://zotero.org) - One-stop location for all your research needs, including citations, PDF management, and notes.
 
-## QR Code to page
+### QR Code to page
 
 ![Pasted image 20221213131826.png](/img/user/attachments/Pasted%20image%2020221213131826.png)
 
