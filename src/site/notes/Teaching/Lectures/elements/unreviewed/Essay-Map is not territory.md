@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teaching/lectures/elements/unreviewed/essay-map-is-not-territory/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/teaching/lectures/elements/unreviewed/essay-map-is-not-territory/","title":"Bibliography","tags":["gardenEntry"]}
 ---
 
 
@@ -40,24 +40,25 @@ And who knows?  Perhaps we might even experience the social pleasures of gettin
 
 ![](https://lh4.googleusercontent.com/lnaCsuJOAqmGbfS_cOjIl8DHYUeNuBpQLeaHPAtJVoJ8yefTNhJro7T1Mom-hsCWCvdOSRZVJHFz2NgexKgJF5qKufqm815NyO8RPQxwy1HJpJbyyBAoTMCHVMOeUBqirTIXAlL61-z1iPL_VkLpBjOqZQu2LkvynJCDWys23xoLmF0YrTLwwUImz2tDqg)
 
-# Bibliography
+## Bibliography
 
 If you’d like to read more about the above, consider checking out the following from our library!
 
 - Bayyah, Abd Allah bin Mahfuz bin, Muhammad Sa‘id Ramadan Al-Buti, Mustafa Çagrıcı, Mustafa Ceric, and Shaykh Ravil Gainutdin. 2006. “Open Letter to His Holiness Pope Benedict XVI.”
-- Chidester, David. 1996. “Anchoring Religion in the World: A Southern African History of Comparative Religion.” Religion 26 (2): 141–59. https://doi.org/10.1006/reli.1996.0012.
-- Katz, Ethan B. 2015. “Shifting Hierarchies of Exclusion: Colonialism, Anti-Semitism, and Islamophobia in European History.” CrossCurrents 65 (3): 357–70. https://doi.org/10/grbfh5.
+- Chidester, David. 1996. “Anchoring Religion in the World: A Southern African History of Comparative Religion.” Religion 26 (2): 141–59. <https://doi.org/10.1006/reli.1996.0012.>
+- Katz, Ethan B. 2015. “Shifting Hierarchies of Exclusion: Colonialism, Anti-Semitism, and Islamophobia in European History.” CrossCurrents 65 (3): 357–70. <https://doi.org/10/grbfh5.>
 - Korzybski, Alfred. 1933. Science and Sanity: An Introduction to Non-Aristotelian Systems and General Semantics. International Non-Aristotelian Library Publishing Company.
-- Mills, Charles W. 1997. The Racial Contract. Cornell University Press. https://books.google.com/books?id=GnmuAwAAQBAJ.
+- Mills, Charles W. 1997. The Racial Contract. Cornell University Press. <https://books.google.com/books?id=GnmuAwAAQBAJ.>
 - Pateman, Carole. 1988. The Sexual Contract. Stanford University Press.
 - Smith, Adam. 1776. “Chapter IV: How the Commerce of the Towns Contributed to the Improvement of the Country.” In The Wealth of Nations. Vol. III. W. Strahan and T. Cadell, London.
 - Smith, Jonathan Z. 1978. Map Is Not Territory: Studies in the History of Religions. University of Chicago Press.
 - ———. 1998. “Religion, Religions, Religious.” In Critical Terms for Religious Studies, edited by Mark C. Taylor, 269–84. Chicago and London: University of Chicago Press.
 - Suzie, By, Schwartz Jacobson, Rabbi Jane, Rachel Litman, Fintan Moore, With Catherine Bell, Ru Cymrot-wu, Barbara Satin, and Vicki Wunsch. 2014. “All in God’s Family: A Jewish Guide to Creating Allies for Our LGBT Families.” National Gay and Lesbian Task Force’s Institute for Welcoming Resources.
 - Wengrow, David, and David Graeber. 2021. The Dawn of Everything: A New History of Humanity. Farrar, Straus and Giroux.
-- Woodbridge, William C. 1845. “Moral and Political Chart of the Inhabited World - Exhibiting the Prevailing Religion, Form of Government, Degree of Civilization, and Population of Each Country.” PJ Mode Collection. https://digital.library.cornell.edu/catalog/ss:19343168.
+- Woodbridge, William C. 1845. “Moral and Political Chart of the Inhabited World - Exhibiting the Prevailing Religion, Form of Government, Degree of Civilization, and Population of Each Country.” PJ Mode Collection. <https://digital.library.cornell.edu/catalog/ss:19343168.>
 
 ### Connections with other Notes
+
 - [[Research/Ideas/Maps and Diagrams/Map - Middle Ages Trade Networks c 1200 CE\|Map - Middle Ages Trade Networks c 1200 CE]]
 - [[Teaching/Class Notes\|Class Notes]]
 - [[Research/Ideas/Accusation in a Mirror\|Accusation in a Mirror]]
