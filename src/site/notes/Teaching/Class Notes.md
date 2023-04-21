@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/teaching/class-notes/","tags":["gardenEntry"]}
 ---
 
-Link to this page: [Class Notes Homepage](<https://sprightly-figolla-7afbc2.netlify.app/class-notes/class-notes/>)
+Link to this page: [Class Notes Homepage](<https://sprightly-figolla-7afbc2.netlify.app/teaching/class-notes/>)
 # Purpose
 This is used to haphazardly house notes and artifacts discussed in class.  These can be maps, letters to the US president, quotations, diagrams for in-class-thought experiments, and so forth.  This is not used to publish general class notes.
 
