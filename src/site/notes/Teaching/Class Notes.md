@@ -14,10 +14,16 @@ Source are cited and linked when possible.  Please contact me if you find someth
 
 # Selected Whiteboard Screenshots
 Below are some screencaps of whiteboards used in class.  Feel free to OCR or otherwise recreate and remix.
+- [[Teaching/Selected Whiteboards\|Selected Whiteboards]]
 - 
 
 # Selected Outlines
 Below are various outlines used in class. Do not consider them *holistic* examinations of the topic, but instead what we highlighted or used as artifacts for discussion in class.
+- [[Teaching/Lectures/Outlines/Epistemology-Introduction-Lecture-Outline\|Epistemology-Introduction-Lecture-Outline]]
+- [[Teaching/Lectures/Outlines/Judaism-Ethnogenesis-and-Political-Myths-Lecture-Outline\|Judaism-Ethnogenesis-and-Political-Myths-Lecture-Outline]]
+- [[Teaching/Lectures/Outlines/Religion-Aboriginal-Indigenous-Lecture-Outline\|Religion-Aboriginal-Indigenous-Lecture-Outline]]
+- [[Teaching/Lectures/Outlines/Theory-Tense Talk as Suspended Schizmogenesis-Lecture-Outline\|Theory-Tense Talk as Suspended Schizmogenesis-Lecture-Outline]]
+- [[Teaching/Lectures/Outlines/Religion-Ways of Viewing Religion-Lecture-Outline\|Religion-Ways of Viewing Religion-Lecture-Outline]]
 - 
  
 # Selected Literature Notes
