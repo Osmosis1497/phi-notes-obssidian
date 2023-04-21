@@ -25,7 +25,6 @@ Below are some screencaps of whiteboards used in class. Feel free to OCR or othe
 
 Below are various outlines used in class. Do not consider them *holistic* examinations of the topic, but instead what we highlighted or used as artifacts for discussion in class.
 
-- [[Teaching/Lectures/Outlines/Epistemology-Introduction-Lecture-Outline\|Epistemology-Introduction-Lecture-Outline]]
 - [[Teaching/Lectures/Outlines/Judaism-Ethnogenesis-and-Political-Myths-Lecture-Outline\|Judaism-Ethnogenesis-and-Political-Myths-Lecture-Outline]]
 - [[Teaching/Lectures/Outlines/Religion-Aboriginal-Indigenous-Lecture-Outline\|Religion-Aboriginal-Indigenous-Lecture-Outline]]
 - [[Teaching/Lectures/Outlines/Theory-Tense Talk as Suspended Schizmogenesis-Lecture-Outline\|Theory-Tense Talk as Suspended Schizmogenesis-Lecture-Outline]]
