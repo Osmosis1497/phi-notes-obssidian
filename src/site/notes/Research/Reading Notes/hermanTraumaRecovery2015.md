@@ -28,27 +28,27 @@
 >> Contradiction of the body's hope
 
 >
-> [Page 89](zotero://open-pdf/library/items/TTBBLYN7?page=89) [[2022-11-27#11:21 am\|2022-11-27#11:21 am]]
+> [Page 89](zotero://open-pdf/library/items/TTBBLYN7?page=89) [[Personal/Journal/drawer/2022-11-27#11:21 am\|2022-11-27#11:21 am]]
 
 > [!quote] Highlight  
 > Although many women who do not dare to defend themselves will defend their children, others are so thoroughly cowed that they fail to intervene even when they see their children mistreated
 >
-> [Page 94](zotero://open-pdf/library/items/TTBBLYN7?page=94) [[2022-11-27#3:00 pm\|2022-11-27#3:00 pm]]
+> [Page 94](zotero://open-pdf/library/items/TTBBLYN7?page=94) [[Personal/Journal/drawer/2022-11-27#3:00 pm\|2022-11-27#3:00 pm]]
 
 > [!quote] Highlight  
 > he victimof chronic traumamay feel herself to be changed irrevocably, or she may lose the sense that she has any self at all.
 >
-> [Page 97](zotero://open-pdf/library/items/TTBBLYN7?page=97) [[2022-11-27#11:27 am\|2022-11-27#11:27 am]]
+> [Page 97](zotero://open-pdf/library/items/TTBBLYN7?page=97) [[Personal/Journal/drawer/2022-11-27#11:27 am\|2022-11-27#11:27 am]]
 
 > [!quote] Highlight  
 > Prolonged captivity underminesor destroys the ordinary sense of a relativelysafe sphere of initiative,in which there is some tolerance for trial and error
 >
-> [Page 102](zotero://open-pdf/library/items/TTBBLYN7?page=102) [[2022-11-27#11:28 am\|2022-11-27#11:28 am]]
+> [Page 102](zotero://open-pdf/library/items/TTBBLYN7?page=102) [[Personal/Journal/drawer/2022-11-27#11:28 am\|2022-11-27#11:28 am]]
 
 > [!quote] Highlight  
 > To the chronically traumatized person, any action has potentially dire consequences. There is no room for mistakes. Rosencof describes his constant expectation of punishment: “I’m in a perpetual cringe. I’m constantly stopping to let whoever is behind me pass: my body keeps expecting a blow.
 >
-> [Page 102](zotero://open-pdf/library/items/TTBBLYN7?page=102) [[2022-11-27#11:29 am\|2022-11-27#11:29 am]]
+> [Page 102](zotero://open-pdf/library/items/TTBBLYN7?page=102) [[Personal/Journal/drawer/2022-11-27#11:29 am\|2022-11-27#11:29 am]]
 
 > [!quote] Highlight  
 > People subjected to prolonged, repeated trauma develop an insidious, progressive form of post-traumatic stress disorder that invades and erodes the personality.
@@ -58,27 +58,27 @@
 > [!quote] Highlight  
 > But the features of post-traumatic stress disorder that become most exaggerated in chronically traumatized people are avoidance or constriction.
 >
-> [Page 98](zotero://open-pdf/library/items/TTBBLYN7?page=98) [[2022-11-27#11:27 am\|2022-11-27#11:27 am]]
+> [Page 98](zotero://open-pdf/library/items/TTBBLYN7?page=98) [[Personal/Journal/drawer/2022-11-27#11:27 am\|2022-11-27#11:27 am]]
 
 > [!quote] Highlight  
 > adaptive in captivity, it also leads to a kind of atrophy in the psychological capacities that have been suppressed and to the overdevelopment of a solitary inner life
 >
-> [Page 98](zotero://open-pdf/library/items/TTBBLYN7?page=98) [[2022-11-27#3:01 pm\|2022-11-27#3:01 pm]]
+> [Page 98](zotero://open-pdf/library/items/TTBBLYN7?page=98) [[Personal/Journal/drawer/2022-11-27#3:01 pm\|2022-11-27#3:01 pm]]
 
 > [!quote] Highlight  
 > Through the practice of dissociation, voluntary thought suppression, minimization, and sometimes outright denial, they learn to alter an unbearable reality
 >
-> [Page 98](zotero://open-pdf/library/items/TTBBLYN7?page=98) [[2022-11-27#3:01 pm\|2022-11-27#3:01 pm]]
+> [Page 98](zotero://open-pdf/library/items/TTBBLYN7?page=98) [[Personal/Journal/drawer/2022-11-27#3:01 pm\|2022-11-27#3:01 pm]]
 
 > [!quote] Highlight  
 > This constriction in the capacities for active engagement with the world, which is common even after a single trauma, becomes most pronounced in chronically traumatized people, who are often described as passiveor helpless.
 >
-> [Page 101](zotero://open-pdf/library/items/TTBBLYN7?page=101) [[2022-12-24#6:58 am\|2022-12-24#6:58 am]]
+> [Page 101](zotero://open-pdf/library/items/TTBBLYN7?page=101) [[Personal/Journal/drawer/2022-12-24#6:58 am\|2022-12-24#6:58 am]]
 
 > [!quote] Highlight  
 > The worst fear of any traumatized person is that the moment of horror will recur, and this fear is realized in victims of chronic abuse
 >
-> [Page 97](zotero://open-pdf/library/items/TTBBLYN7?page=97) [[2022-11-27#11:27 am\|2022-11-27#11:27 am]]
+> [Page 97](zotero://open-pdf/library/items/TTBBLYN7?page=97) [[Personal/Journal/drawer/2022-11-27#11:27 am\|2022-11-27#11:27 am]]
 
 
 
