@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/research/ideas/artifacts/bush-era-letter-from-energy-ce-os/","tags":["gardenEntry"]}
 ---
 
-# Sources
-## Letter to George W. Bush from Energy and other CEOs
 - USCAP, and Parag Chokshi. “Joint Statement of the United States Climate Action Partnership | NRDC.” Organization Site. NRDC, January 20, 2007. [https://web.archive.org/web/20221011230114/https://www.nrdc.org/media/2007/070120](https://web.archive.org/web/20221011230114/https://www.nrdc.org/media/2007/070120).
 
 In 2007, a group of CEOs of major energy and manufacturing companies[^1] & NGOs sent George Bush a letter, set up a marketing and legislative push, and so on to enact a plan to use [[Research/Ideas/Artifacts/State\|State]] [[power\|power]] to *compel* *their own companies and organizations* to 
