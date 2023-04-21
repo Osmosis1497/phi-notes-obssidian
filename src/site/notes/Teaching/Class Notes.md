@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teaching/class-notes/","title":"Purpose","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/teaching/class-notes/","title":"Class Notes","tags":["gardenEntry"]}
 ---
 
 
@@ -9,9 +9,10 @@ Link to this page: [Class Notes Homepage](<https://sprightly-figolla-7afbc2.netl
 
 This is used to haphazardly house notes and artifacts discussed in class. These can be maps, letters to the US president, quotations, diagrams for in-class-thought experiments, and so forth. This is not used to publish general class notes.
 
-![The land of Arcadia the imaginary island from our Rawls discussion](<Diagram - Rawls - Islad - Base.png>)
+![Whiteboard - Arcadia - Case 1 - Irrigation Network.light.png](/img/user/attachments/Whiteboard%20-%20Arcadia%20-%20Case%201%20-%20Irrigation%20Network.light.png)
+*Fig 1: Map of Arcadia, used in the thought experiment on Rawls.*
 
-Keep in mind that mere *presence* of an idea or source here is in *no way* an indication of endorsement or criticism of it. This is merely a way to easily share content in class.
+Keep in mind that mere *presence* of an idea or source here is in not an indication of endorsement or criticism of it. This is merely a way to easily share content in class.
 
 Source are cited and linked when possible. Please contact me if you find something amiss. If you provide some sources and are convincing, I'll certainly update things.
 
@@ -19,48 +20,19 @@ Source are cited and linked when possible. Please contact me if you find somethi
 
 Below are some screencaps of whiteboards used in class. Feel free to OCR or otherwise recreate and remix.
 
-- [[Teaching/Selected Whiteboards\|Selected Whiteboards]]
+- [[Teaching/Selected Whiteboards\|Selected Whiteboards]] [^1]
 
 ## Selected Outlines
 
 Below are various outlines used in class. Do not consider them *holistic* examinations of the topic, but instead what we highlighted or used as artifacts for discussion in class.
 
-- [[Teaching/Lectures/Outlines/Judaism-Ethnogenesis-and-Political-Myths-Lecture-Outline\|Judaism-Ethnogenesis-and-Political-Myths-Lecture-Outline]]
-- [[Teaching/Lectures/Outlines/Religion-Aboriginal-Indigenous-Lecture-Outline\|Religion-Aboriginal-Indigenous-Lecture-Outline]]
-- [[Teaching/Lectures/Outlines/Theory-Tense Talk as Suspended Schizmogenesis-Lecture-Outline\|Theory-Tense Talk as Suspended Schizmogenesis-Lecture-Outline]]
-- [[Teaching/Lectures/Outlines/Religion-Ways of Viewing Religion-Lecture-Outline\|Religion-Ways of Viewing Religion-Lecture-Outline]]
-
+- [[Teaching/Selected Outlines\|Selected Outlines]] [^2]
 
 ## Selected Literature Notes
 
 These are my Zotero literature (reading) notes from selected sources I sometimes reference in class. The quotations in the lit. notes are highlights and comments from PDFs and aren't necessarily a good guide to the work as a whole. Provide this to encourage students to double-check and expand upon the resources in class for their own papers Literature notes are titled by citation key.
 
-- [[Research/Reading Notes/benderDangersStochasticParrots2021\|benderDangersStochasticParrots2021]]
-- [[Research/Reading Notes/birgita.olsenTracingIndoEuropeans2019\|birgita.olsenTracingIndoEuropeans2019]]
-- [[Research/Reading Notes/Bray2017\|Bray2017]]
-- [[Research/Reading Notes/bressiMeasurementCasimirForce2002\|bressiMeasurementCasimirForce2002]]
-- [[Research/Reading Notes/Chidester1996\|Chidester1996]]
-- [[Research/Reading Notes/davidgraeberAnthropologicalTheoryValue2001\|davidgraeberAnthropologicalTheoryValue2001]]
-- [[Research/Reading Notes/freirePedagogyOppressed50th2018\|freirePedagogyOppressed50th2018]]
-- [[Research/Reading Notes/Graeber2000\|Graeber2000]]
-- [[Research/Reading Notes/Graeber2012\|Graeber2012]]
-- [[Research/Reading Notes/graeberAllEconomiesAre2021\|graeberAllEconomiesAre2021]]
-- [[Research/Reading Notes/hamiltonFederalistPapersNo1998\|hamiltonFederalistPapersNo1998]]
-- [[Research/Reading Notes/Harvey2005\|Harvey2005]]
-- [[Research/Reading Notes/kantDifferentRacesMan1997\|kantDifferentRacesMan1997]]
-- [[Research/Reading Notes/kumarKantGroundHuman2021\|kumarKantGroundHuman2021]]
-- [[Research/Reading Notes/leem.brownAfricanPhilosophyNew2004\|leem.brownAfricanPhilosophyNew2004]]
-- [[Research/Reading Notes/mcleayMoneyCreationModern2014\|mcleayMoneyCreationModern2014]]
-- [[Research/Reading Notes/millsRacialContract1997\|millsRacialContract1997]]
-- [[Research/Reading Notes/Paxton2004\|Paxton2004]]
-- [[Research/Reading Notes/powellAttackAmericanFree1971\|powellAttackAmericanFree1971]]
-- [[Research/Reading Notes/possehlIndusCivilizationContemporary2002\|possehlIndusCivilizationContemporary2002]]
-- [[Research/Reading Notes/Steger2009\|Steger2009]]
-- [[Research/Reading Notes/Volf1996\|Volf1996]]
-- [[Research/Reading Notes/wengrowManySeasonsAgo2018\|wengrowManySeasonsAgo2018]]
-- [[Research/Reading Notes/wengrowRethinkingEarlyStates2023\|wengrowRethinkingEarlyStates2023]]
-- [[Research/Reading Notes/wengrowRethinkingCitiesGround\|wengrowRethinkingCitiesGround]]
-- [[Research/Reading Notes/wengrowDawnEverythingNew2021\|wengrowDawnEverythingNew2021]]
+- [[Selected Lit Notes\|Selected Lit Notes]] [^3]
 
 ## Other Selected Notes
 
@@ -85,3 +57,9 @@ Here are some great learning tools.
 ## QR Code to page
 
 ![Pasted image 20221213131826.png](/img/user/attachments/Pasted%20image%2020221213131826.png)
+
+[^1]: [[Teaching/Lectures/Whiteboards/Complete/_Index_of_Complete\|Index of Completed Whiteboards]]
+
+[^2]: [[Teaching/Lectures/Outlines/_Index_of_Outlines\|Index of Completed Outlines]]
+
+[^3]: [[Research/Reading Notes/_Index_of_Reading Notes\|_Index_of_Reading Notes]]
