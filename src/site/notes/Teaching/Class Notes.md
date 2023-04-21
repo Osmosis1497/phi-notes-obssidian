@@ -9,7 +9,7 @@ Link to this page: [Class Notes Homepage](<https://sprightly-figolla-7afbc2.netl
 
 This is used to haphazardly house notes and artifacts discussed in class. These can be maps, letters to the US president, quotations, diagrams for in-class-thought experiments, and so forth. This is not used to publish general class notes.
 
-![Diagram - Rawls - Islad - Base.png](/img/user/Teaching/attachments/Diagram%20-%20Rawls%20-%20Islad%20-%20Base.png)
+![[The land of *Arcadia*, the imaginary island from our Rawls discussion.](<Diagram - Rawls - Islad - Base.png>)
 
 Keep in mind that mere *presence* of an idea or source here is in *no way* an indication of endorsement or criticism of it. This is merely a way to easily share content in class.
 
