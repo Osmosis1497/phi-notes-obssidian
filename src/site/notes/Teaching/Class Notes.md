@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teaching/class-notes/","title":"In-Class Notes","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/teaching/class-notes/","title":"Class Notes","tags":["gardenEntry"]}
 ---
 
 
@@ -9,8 +9,8 @@ Link to this page: [Class Notes Homepage](<https://sprightly-figolla-7afbc2.netl
 
 This is used to haphazardly house notes and artifacts discussed in class. These can be maps, letters to the US president, quotations, diagrams for in-class-thought experiments, and so forth. This is not used to publish general class notes.
 
-![Whiteboard - Arcadia - Case 1 - Irrigation Network.light.png](/img/user/attachments/Whiteboard%20-%20Arcadia%20-%20Case%201%20-%20Irrigation%20Network.light.png)
-*Fig 1: Map of Arcadia, used in the thought experiment on Rawls.*
+![](WB-TE-Rawls-Base-Arcadia%201.md)
+*Fig 1: Map of [Arcadia](WB-TE-Rawls-Case%201-Irrigation%20Network%201.md), used in the thought experiment on Rawls.*
 
 Keep in mind that mere *presence* of an idea or source here is in not an indication of endorsement or criticism of it. This is merely a way to easily share content in class.
 
@@ -20,9 +20,9 @@ Source are cited and linked when possible. Please contact me if you find somethi
 
 Below are *some* of the notes we used in class this semester.
 
-- [[Teaching/Selected Whiteboards\|Selected Whiteboards]] [^1] - Below are some screencaps of whiteboards used in class. Feel free to OCR or otherwise recreate and remix.
-- [[Teaching/Selected Outlines\|Selected Outlines]] [^2] - Below are various outlines used in class. Do not consider them *holistic* examinations of the topic, but instead what we highlighted or used as artifacts for discussion in class.
-- [[Teaching/Selected Lit Notes\|Selected Lit Notes]] [^3] - These are my Zotero literature (reading) notes from selected sources I sometimes reference in class. The quotations in the lit. notes are highlights and comments from PDFs and aren't necessarily a good guide to the work as a whole. Provide this to encourage students to double-check and expand upon the resources in class for their own papers Literature notes are titled by citation key.
+- [Selected Whiteboards](Selected%20Whiteboards.md) [^1] - Below are some screencaps of whiteboards used in class. Feel free to OCR or otherwise recreate and remix.
+- [Selected Outlines](Lectures/Outlines/Selected%20Outlines.md) [^2] - Below are various outlines used in class. Do not consider them *holistic* examinations of the topic, but instead what we highlighted or used as artifacts for discussion in class.
+- [Selected Lit Notes](../Research/Reading%20Notes/Selected%20Lit%20Notes.md) [^3] - These are my Zotero literature (reading) notes from selected sources I sometimes reference in class. The quotations in the lit. notes are highlights and comments from PDFs and aren't necessarily a good guide to the work as a whole. Provide this to encourage students to double-check and expand upon the resources in class for their own papers Literature notes are titled by citation key.
 
 ### Helpful Tools
 
@@ -34,10 +34,10 @@ Here are some great learning tools.
 
 ### QR Code to page
 
-![Pasted image 20221213131826.png](/img/user/attachments/Pasted%20image%2020221213131826.png)
+![](Pasted%20image%2020221213131826.png)
 
-[^1]: [[Teaching/Lectures/Whiteboards/Complete/_Index_of_Complete\|Index of Completed Whiteboards]]
+[^1]: [Index of Completed Whiteboards](Lectures/Whiteboards/Complete/_Index_of_Complete.md)
 
-[^2]: [[Teaching/Lectures/Outlines/_Index_of_Outlines\|Index of Completed Outlines]]
+[^2]: [Index of Completed Outlines](Lectures/Outlines/_Index_of_Outlines.md)
 
-[^3]: [[Research/Reading Notes/_Index_of_Reading Notes\|_Index_of_Reading Notes]]
+[^3]: [_Index_of_Reading Notes](../Research/Reading%20Notes/_Index_of_Reading%20Notes.md)
