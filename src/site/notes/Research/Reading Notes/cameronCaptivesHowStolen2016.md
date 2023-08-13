@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research/reading-notes/cameron-captives-how-stolen2016/","title":"Records","tags":["Social-Science-/-Anthropology-/-Cultural-&-Social","Social-Science-/-Slavery","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/research/reading-notes/cameron-captives-how-stolen2016/","title":"Records","tags":["Social-Science-/-Anthropology-/-Cultural-&-Social","Social-Science-/-Slavery","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
@@ -37,6 +37,37 @@
 
 
 
-![20230513_142231.jpg](/img/user/Files/attachments/20230513_142231.jpg)
 
-![20230513_142252.jpg](/img/user/Files/attachments/20230513_142252.jpg)
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+![Slavery's Haunting Silence-1.jpg](/img/user/Files/_attachments/Slavery's%20Haunting%20Silence-1.jpg)
+
+![Slavery's Haunting Silence-2.jpg](/img/user/Files/_attachments/Slavery's%20Haunting%20Silence-2.jpg)
+
+The *Haunting Silence* refers to the tendency for captors and captives to selectively forget and bury the "memories of the nightmare of slavery."[^1] This applies to at least the following three groups:
+
+1. reforming [captor societies](captor%20societies),
+2. former [captives](captives) and their [kin](kin),[^2] as well as
+3. discipline-developing or reforming scholarship of the 1900s. ( i.e. scholarship from 1920-1960)
+
+> [!supposition]
+This selective traumatic amnesia has confounding effects on the discourse---academic and vulgar---and therefore has scholarship and social reformation on their hind feet.
+
+> [!Research Question]
+> How have former slaving and slaved people's dealt with this haunting silence? How have their scholars written about it? Can those things inform how we might engage the same issues?
+## Citation
+
+Cameron, Catherine M. *[Captives](../Reading%20Notes/cameronCaptivesHowStolen2016.md): How Stolen People Changed the World*. U of Nebraska Press, 2016.
+
+## Notes
+
+[^1]: Cameron, Catherine M. *[Captives](../Reading%20Notes/cameronCaptivesHowStolen2016.md)* p 17-18.
+
+[^2]: American plantation slavery is a notable exception due to racial segregation in the United States.
+
+
+</div></div>
+
