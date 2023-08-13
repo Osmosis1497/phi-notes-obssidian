@@ -27,7 +27,7 @@
 > [!quote] Highlight  
 > The OA model uses Article Processing Charges (APC), paid to pub lishers at the time of publicationby researchers, their institutions and/or funders. These APC – typically $1500-$2500 per article, but sometimes much more for prestigious journals (Morrison, 2019) – are intended to replace journal subscription fees, and paywall charges for reprints for non-subscribers.
 >
-> [Page 1](zotero://open-pdf/library/items/SY74CKAR?page=1) [[Personal/Journal/drawer/2022-12-24#7:48 am\|2022-12-24#7:48 am]]
+> [Page 1](zotero://open-pdf/library/items/SY74CKAR?page=1) [2022-12-24 > 7:48 am](2022-12-24#7:48%20am)
 
 > [!quote] Highlight  
 > Despite continuing growth in the number of scholarly papers published in Open Access journals (Piwowar et al., 2018), the balance of advantages and disadvantages of OA have been rather difficult to discern over the two decades since OA was launched (Gray, 2020; MacLeavy et al., 2020).
@@ -35,7 +35,7 @@
 >> Red
 
 >
-> [Page 1](zotero://open-pdf/library/items/SY74CKAR?page=1) [[Personal/Journal/drawer/2022-12-24#7:47 am\|2022-12-24#7:47 am]]
+> [Page 1](zotero://open-pdf/library/items/SY74CKAR?page=1) [2022-12-24 > 7:47 am](2022-12-24#7:47%20am)
 
 > [!quote] Highlight  
 > Because the literature on OA is so widely scattered across scientific disciplines and their respectivejournals, it is very difficultto find a set of truly comprehensive search terms which sensitively identify all relevant publications.
@@ -43,7 +43,7 @@
 >> Yellow
 
 >
-> [Page 1](zotero://open-pdf/library/items/SY74CKAR?page=1) [[Personal/Journal/drawer/2022-12-24#7:47 am\|2022-12-24#7:47 am]]
+> [Page 1](zotero://open-pdf/library/items/SY74CKAR?page=1) [2022-12-24 > 7:47 am](2022-12-24#7:47%20am)
 
 
 
