@@ -34,10 +34,10 @@ I also heard in evolutionary psychology and economics classes that hunter-gather
 
 # Text
 
-![Pasted image 20230101143048.png](/img/user/attachments/Pasted%20image%2020230101143048.png)
+![](Research/Ideas/_media/Pasted%20image%2020230101143048.png)
 
-![Pasted image 20230101143029.png](/img/user/attachments/Pasted%20image%2020230101143029.png)
+![](Research/Ideas/_media/Pasted%20image%2020230101143029.png)
 
-![Pasted image 20230101143106.png](/img/user/attachments/Pasted%20image%2020230101143106.png)
+![](Research/Ideas/_media/Pasted%20image%2020230101143106.png)
 
-[^1]: See the reading note:  [[Research/Reading Notes/wengrowDawnEverythingNew2021\|wengrowDawnEverythingNew2021]]
+[^1]: See the reading note:  [wengrowDawnEverythingNew2021](../Reading%20Notes/wengrowDawnEverythingNew2021.md)
