@@ -27,22 +27,22 @@
 > [!quote] Highlight  
 > potential of calling out behavior in terms of a justice standpoint
 >
-> [Page 27](zotero://open-pdf/library/items/SVDEVMP6?page=27) [[2022-12-27#9:44 pm\|2022-12-27#9:44 pm]]
+> [Page 27](zotero://open-pdf/library/items/SVDEVMP6?page=27) [2022-12-27 > 9:44 pm](2022-12-27#9:44%20pm)
 
 > [!quote] Highlight  
 > it has potential to progress into harassment unless kept appropriately in check.
 >
-> [Page 27](zotero://open-pdf/library/items/SVDEVMP6?page=27) [[2022-12-27#9:44 pm\|2022-12-27#9:44 pm]]
+> [Page 27](zotero://open-pdf/library/items/SVDEVMP6?page=27) [2022-12-27 > 9:44 pm](2022-12-27#9:44%20pm)
 
 > [!quote] Highlight  
 > fragmentation and division of community norms could be a cause for conflict and sometimes harassment
 >
-> [Page 27](zotero://open-pdf/library/items/SVDEVMP6?page=27) [[2022-12-27#9:44 pm\|2022-12-27#9:44 pm]]
+> [Page 27](zotero://open-pdf/library/items/SVDEVMP6?page=27) [2022-12-27 > 9:44 pm](2022-12-27#9:44%20pm)
 
 > [!quote] Highlight  
 > designing for de-escalation and providing indirect bystander intervention methods
 >
-> [Page 27](zotero://open-pdf/library/items/SVDEVMP6?page=27) [[2022-12-27#9:44 pm\|2022-12-27#9:44 pm]]
+> [Page 27](zotero://open-pdf/library/items/SVDEVMP6?page=27) [2022-12-27 > 9:44 pm](2022-12-27#9:44%20pm)
 
 
 
