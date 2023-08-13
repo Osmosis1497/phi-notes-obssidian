@@ -25,17 +25,17 @@ Marcus, Kenneth L. “Accusation in a Mirror.” _Loyola University of Chicago L
 
 AiM is central to creating the conditions that enable genocide. 
 
-![Pasted image 20221002105355.png](/img/user/attachments/Pasted%20image%2020221002105355.png)
+![](Research/Ideas/_media/Pasted%20image%2020221002105355.png)
 
 
 Definition of Genocide, which is too narrow.
 
-![Pasted image 20221002105603.png](/img/user/attachments/Pasted%20image%2020221002105603.png)
+![](Research/Ideas/_media/Pasted%20image%2020221002105603.png)
 
 # References
-- [[Research/Ideas/Human Rights as Rooted in Property Rights\|Human Rights as Rooted in Property Rights]]
-- [[Research/Ideas/Construction of Humanities\|Construction of Humanities]]
-- [[Research/Ideas/Examples of the Social Need to Quantify Human Value\|Examples of the Social Need to Quantify Human Value]]
-- [[Research/Ideas/Humans and Persons\|Humans and Persons]]
-- [[Research/Reading Notes/hermanTraumaRecovery2015\|hermanTraumaRecovery2015]]
-- [[Teaching/Lectures/elements/unreviewed/Essay-Map is not territory\|Essay-Map is not territory]]
+- [Human Rights as Rooted in Property Rights](Human%20Rights%20as%20Rooted%20in%20Property%20Rights.md)
+- [Construction of Humanities](Construction%20of%20Humanities.md)
+- [Examples of the Social Need to Quantify Human Value](Research/Ideas/Examples%20of%20the%20Social%20Need%20to%20Quantify%20Human%20Value.md)
+- [Humans and Persons](Humans%20and%20Persons.md)
+- [hermanTraumaRecovery2015](../Reading%20Notes/hermanTraumaRecovery2015.md)
+- [Essay-Map is not territory](../Artifacts/unreviewed/Essay-Map%20is%20not%20territory.md)
