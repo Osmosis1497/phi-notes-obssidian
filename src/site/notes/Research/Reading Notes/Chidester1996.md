@@ -21,87 +21,87 @@
 > [!quote] Highlight
 > Europeans continued to deny the existence of any indigenous Xhosa religion until the national destruction brought about by the Cattle-Killing of 1857.
 >
-> [Page 7](zotero://open-pdf/library/items/NDV9N4JI?page=7) [[2022-11-24#7:45 pm\|2022-11-24#7:45 pm]]
+> [Page 7](zotero://open-pdf/library/items/NDV9N4JI?page=7) [2022-11-24 > 7:45 pm](2022-11-24#7:45%20pm)
 
 > [!quote] Highlight
 > Xhosa religion could be inventoried; its psychological and social functions could be analysed.
 >
-> [Page 7](zotero://open-pdf/library/items/NDV9N4JI?page=7) [[2022-11-24#7:46 pm\|2022-11-24#7:46 pm]]
+> [Page 7](zotero://open-pdf/library/items/NDV9N4JI?page=7) [2022-11-24 > 7:46 pm](2022-11-24#7:46%20pm)
 
 > [!quote] Highlight
 > In fact, when the last independent polity was broken in the 1890s, and colonial control extended throughout the region, every African in southern Africa was found to have a generic ‘Bantu’ religion.
 >
-> [Page 8](zotero://open-pdf/library/items/NDV9N4JI?page=8) [[2022-11-24#7:46 pm\|2022-11-24#7:46 pm]]
+> [Page 8](zotero://open-pdf/library/items/NDV9N4JI?page=8) [2022-11-24 > 7:46 pm](2022-11-24#7:46%20pm)
 
 > [!quote] Highlight
 > According to Lubbock, the anchor remained as evidence of a ‘frame of mind’ and a ‘tendency to deification’ that represented the primordial origin of religion.
 >
-> [Page 9](zotero://open-pdf/library/items/NDV9N4JI?page=9) [[2022-11-24#7:47 pm\|2022-11-24#7:47 pm]]
+> [Page 9](zotero://open-pdf/library/items/NDV9N4JI?page=9) [2022-11-24 > 7:47 pm](2022-11-24#7:47%20pm)
 
 > [!quote] Highlight
 > In European reflections on the origin of religion at the turn of the century, the anchor continued to stand, or, more accurately, to float, as a symbol of a mentality.
 >
-> [Page 9](zotero://open-pdf/library/items/NDV9N4JI?page=9) [[2022-11-24#7:47 pm\|2022-11-24#7:47 pm]]
+> [Page 9](zotero://open-pdf/library/items/NDV9N4JI?page=9) [2022-11-24 > 7:47 pm](2022-11-24#7:47%20pm)
 
 > [!quote] Highlight
 > Tiele has often been identified as a founder of the European science of comparative religion
 >
-> [Page 10](zotero://open-pdf/library/items/NDV9N4JI?page=10) [[2022-11-24#7:59 pm\|2022-11-24#7:59 pm]]
+> [Page 10](zotero://open-pdf/library/items/NDV9N4JI?page=10) [2022-11-24 > 7:59 pm](2022-11-24#7:59%20pm)
 
 > [!quote] Highlight
 > n Tiele’s account, the anchor demonstrated the childish hopes and fears that caused ‘primitives’ to perform ritual acts of worship before unknown and mysterious objects.
 >
-> [Page 10](zotero://open-pdf/library/items/NDV9N4JI?page=10) [[2022-11-24#7:47 pm\|2022-11-24#7:47 pm]]
+> [Page 10](zotero://open-pdf/library/items/NDV9N4JI?page=10) [2022-11-24 > 7:47 pm](2022-11-24#7:47%20pm)
 
 > [!quote] Highlight
 > For Van der Kemp, Lichtenstein, and Alberti it had represented the absence of religion. Now it represented the absence of science.
 >
-> [Page 11](zotero://open-pdf/library/items/NDV9N4JI?page=11) [[2022-11-24#8:02 pm\|2022-11-24#8:02 pm]]
+> [Page 11](zotero://open-pdf/library/items/NDV9N4JI?page=11) [2022-11-24 > 8:02 pm](2022-11-24#8:02%20pm)
 
 > [!quote] Highlight
 > imperial comparative religion represented Africans as fossilized remnants of human prehistory that had no place in the present.
 >
-> [Page 12](zotero://open-pdf/library/items/NDV9N4JI?page=12) [[2022-11-24#8:02 pm\|2022-11-24#8:02 pm]]
+> [Page 12](zotero://open-pdf/library/items/NDV9N4JI?page=12) [2022-11-24 > 8:02 pm](2022-11-24#8:02%20pm)
 
 > [!quote] Highlight
 > At every stage in its history, however, the anchor marked significant theoretical oppositions in comparative religion. Perhaps originally used to signal an indigenous African distinction between sea and land, the anchor was subsequently employed by European comparativists to mark oppositions between religion and superstition, the civilized and the primitive, and, ultimately, the opposition between a scientific rationality and an abstracted, disembodied and decontextualized ‘primitive mentality’ that was out of touch with the real world.
 >
-> [Page 13](zotero://open-pdf/library/items/NDV9N4JI?page=13) [[2022-11-24#8:03 pm\|2022-11-24#8:03 pm]]
+> [Page 13](zotero://open-pdf/library/items/NDV9N4JI?page=13) [2022-11-24 > 8:03 pm](2022-11-24#8:03%20pm)
 
 > [!quote] Highlight
 > as the Xhosa were placed under the magisterial system, colonial magistrate Joseph Cox Warner was the first to use the word ‘religion’ to designate a Xhosa system of beliefs and practices.
 >
-> [Page 7](zotero://open-pdf/library/items/NDV9N4JI?page=7) [[2022-11-24#7:45 pm\|2022-11-24#7:45 pm]]
+> [Page 7](zotero://open-pdf/library/items/NDV9N4JI?page=7) [2022-11-24 > 7:45 pm](2022-11-24#7:45%20pm)
 
 > [!quote] Highlight
 > correlation between containment and the discovery of religion
 >
-> [Page 7](zotero://open-pdf/library/items/NDV9N4JI?page=7) [[2022-11-24#7:46 pm\|2022-11-24#7:46 pm]]
+> [Page 7](zotero://open-pdf/library/items/NDV9N4JI?page=7) [2022-11-24 > 7:46 pm](2022-11-24#7:46%20pm)
 
 > [!quote] Highlight
 > decontextualized the anchor
 >
-> [Page 9](zotero://open-pdf/library/items/NDV9N4JI?page=9) [[2022-11-24#7:46 pm\|2022-11-24#7:46 pm]]
+> [Page 9](zotero://open-pdf/library/items/NDV9N4JI?page=9) [2022-11-24 > 7:46 pm](2022-11-24#7:46%20pm)
 
 > [!quote] Highlight
 > Divorced from any geographical, historical or political context, this ‘frame of mind’ could be imagined as an explanatory constant.
 >
-> [Page 9](zotero://open-pdf/library/items/NDV9N4JI?page=9) [[2022-11-24#7:47 pm\|2022-11-24#7:47 pm]]
+> [Page 9](zotero://open-pdf/library/items/NDV9N4JI?page=9) [2022-11-24 > 7:47 pm](2022-11-24#7:47%20pm)
 
 > [!quote] Highlight
 > Tiele’s GiVord lectures in 1896
 >
-> [Page 10](zotero://open-pdf/library/items/NDV9N4JI?page=10) [[2022-11-24#7:48 pm\|2022-11-24#7:48 pm]]
+> [Page 10](zotero://open-pdf/library/items/NDV9N4JI?page=10) [2022-11-24 > 7:48 pm](2022-11-24#7:48%20pm)
 
 > [!quote] Highlight
 > Frank Byron Jevons
 >
-> [Page 10](zotero://open-pdf/library/items/NDV9N4JI?page=10) [[2022-11-24#7:47 pm\|2022-11-24#7:47 pm]]
+> [Page 10](zotero://open-pdf/library/items/NDV9N4JI?page=10) [2022-11-24 > 7:47 pm](2022-11-24#7:47%20pm)
 
 > [!quote] Highlight
 > The fate of the shipwrecked anchor recalls one trajectory in those relations between metropolitan centre and colonized periphery.
 >
-> [Page 12](zotero://open-pdf/library/items/NDV9N4JI?page=12) [[2022-11-24#8:02 pm\|2022-11-24#8:02 pm]]
+> [Page 12](zotero://open-pdf/library/items/NDV9N4JI?page=12) [2022-11-24 > 8:02 pm](2022-11-24#8:02%20pm)
 
 
 
