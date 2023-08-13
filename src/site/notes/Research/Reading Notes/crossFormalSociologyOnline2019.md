@@ -27,84 +27,84 @@
 > [!quote] Highlight  
 > Online harassment—purposefully abusive, unwanted, often repeated interactions with another person online
 >
-> [Page 2](zotero://open-pdf/library/items/LKNZ4GDV?page=2) [[2022-12-26#6:22 am\|2022-12-26#6:22 am]]
+> [Page 2](zotero://open-pdf/library/items/LKNZ4GDV?page=2) [2022-12-26 > 6:22 am](2022-12-26#6:22%20am)
 
 > [!quote] Highlight  
 > quickly metastasized into a reactionary movement against any hint of feminist or progressive activism in the world of video gaming (Mortensen, 2018).
 >
-> [Page 2](zotero://open-pdf/library/items/LKNZ4GDV?page=2) [[2022-12-26#6:24 am\|2022-12-26#6:24 am]]
+> [Page 2](zotero://open-pdf/library/items/LKNZ4GDV?page=2) [2022-12-26 > 6:24 am](2022-12-26#6:24%20am)
 
 > [!quote] Highlight  
 > Internet’s cultural conceit of unreality—the popular idea that the Internet is unreal and distinct from “real life”—licenses this behavior by making it easy to ignore the humanity of one’s interlocutors (Cross, 2014).
 >
-> [Page 2](zotero://open-pdf/library/items/LKNZ4GDV?page=2) [[2022-12-26#6:26 am\|2022-12-26#6:26 am]]
+> [Page 2](zotero://open-pdf/library/items/LKNZ4GDV?page=2) [2022-12-26 > 6:26 am](2022-12-26#6:26%20am)
 
 > [!quote] Highlight  
 > many of the people who are harassed are often antagonized online through a process that is so rote as to nearly be scripted. Thus, I argue that this script is best understood as a form in the Simmelian sense.
 >
-> [Page 4](zotero://open-pdf/library/items/LKNZ4GDV?page=4) [[2022-12-26#6:28 am\|2022-12-26#6:28 am]]
+> [Page 4](zotero://open-pdf/library/items/LKNZ4GDV?page=4) [2022-12-26 > 6:28 am](2022-12-26#6:28%20am)
 
 > [!quote] Highlight  
 > first-order harassment, which involves the most severe attacks against the target’s Web presence and physical life, like doxing, swatting, DDOS attacks, and stalking; here, the harassers do something to the target.
 >
-> [Page 4](zotero://open-pdf/library/items/LKNZ4GDV?page=4) [[2022-12-26#6:29 am\|2022-12-26#6:29 am]]
+> [Page 4](zotero://open-pdf/library/items/LKNZ4GDV?page=4) [2022-12-26 > 6:29 am](2022-12-26#6:29%20am)
 
 > [!quote] Highlight  
 > Second-order harassment is the most commonly known variety: person-to-person online abuse through social media or email; here, harassers say something to the target.
 >
-> [Page 4](zotero://open-pdf/library/items/LKNZ4GDV?page=4) [[2022-12-26#6:29 am\|2022-12-26#6:29 am]]
+> [Page 4](zotero://open-pdf/library/items/LKNZ4GDV?page=4) [2022-12-26 > 6:29 am](2022-12-26#6:29%20am)
 
 > [!quote] Highlight  
 > Third-order harassment sees the crowd talking to each other about the target, justifying, excusing, or minimizing the harassment and creating a social climate that makes abuse more likely.
 >
-> [Page 5](zotero://open-pdf/library/items/LKNZ4GDV?page=5) [[2022-12-26#6:29 am\|2022-12-26#6:29 am]]
+> [Page 5](zotero://open-pdf/library/items/LKNZ4GDV?page=5) [2022-12-26 > 6:29 am](2022-12-26#6:29%20am)
 
 > [!quote] Highlight  
 > by the 2010s, two new features became increasingly common in episodes of online harassment: organization and longevity
 >
-> [Page 2](zotero://open-pdf/library/items/LKNZ4GDV?page=2) [[2022-12-26#6:22 am\|2022-12-26#6:22 am]]
+> [Page 2](zotero://open-pdf/library/items/LKNZ4GDV?page=2) [2022-12-26 > 6:22 am](2022-12-26#6:22%20am)
 
 > [!quote] Highlight  
 > the three orders of online harassment
 >
-> [Page 3](zotero://open-pdf/library/items/LKNZ4GDV?page=3) [[2022-12-26#6:27 am\|2022-12-26#6:27 am]]
+> [Page 3](zotero://open-pdf/library/items/LKNZ4GDV?page=3) [2022-12-26 > 6:27 am](2022-12-26#6:27%20am)
 
 > [!quote] Highlight  
 > not intended to suggest that there is a broad equity in who gets harassed or that the harassment always has the same sociostructural impact.
 >
-> [Page 4](zotero://open-pdf/library/items/LKNZ4GDV?page=4) [[2022-12-26#6:28 am\|2022-12-26#6:28 am]]
+> [Page 4](zotero://open-pdf/library/items/LKNZ4GDV?page=4) [2022-12-26 > 6:28 am](2022-12-26#6:28%20am)
 
 #### Imported on 2022-12-27 8:40 Pm
 
 > [!quote] Image  
-> ![Research/Reading Notes/attachments/KLTTEG42.png](/img/user/Research/Reading%20Notes/attachments/KLTTEG42.png)
+> ![](KLTTEG42.png)
 
 >> The Form of Online Harassment. While this captures the extreme and conscious end of harassment, looking for communication forms that have the same structure might help us locate and better understand how those forms enable and contribute to the toxicity of any public transcript. 
 
 >> 
-> [Page 4](zotero://open-pdf/library/items/LKNZ4GDV?page=4) [[2022-12-27#8:40 pm\|2022-12-27#8:40 pm]]
+> [Page 4](zotero://open-pdf/library/items/LKNZ4GDV?page=4) [2022-12-27 > 8:40 pm](2022-12-27#8:40%20pm)
 
 #### Imported on 2022-12-27 9:50 Pm
 
 > [!quote] Highlight  
 > the most productive site for intervention is not necessarily the individual harasser, but those aspects of the platform that facilitate what I have called third-order harassment.
 >
-> [Page 16](zotero://open-pdf/library/items/LKNZ4GDV?page=16) [[2022-12-27#9:26 pm\|2022-12-27#9:26 pm]]
+> [Page 16](zotero://open-pdf/library/items/LKNZ4GDV?page=16) [2022-12-27 > 9:26 pm](2022-12-27#9:26%20pm)
 
 > [!quote] Highlight  
 > identify and illustrate online harassment and gives those who must advocate for themselves a much-needed tool with which they can demonstrate the structural nature of the abuse they are facing
 >
-> [Page 16](zotero://open-pdf/library/items/LKNZ4GDV?page=16) [[2022-12-27#9:25 pm\|2022-12-27#9:25 pm]]
+> [Page 16](zotero://open-pdf/library/items/LKNZ4GDV?page=16) [2022-12-27 > 9:25 pm](2022-12-27#9:25%20pm)
 
 > [!quote] Highlight  
 > Structures such as Twitter’s threading function or its lack of granular control of responses (one can either lock his/her account or be open to the entire platform with minimal, heavy-handed filtering) or Facebook’s unwillingness to moderate groups that promote ethnic or gender-based hatred facilitate third-order harassment.
 >
-> [Page 16](zotero://open-pdf/library/items/LKNZ4GDV?page=16) [[2022-12-27#9:25 pm\|2022-12-27#9:25 pm]]
+> [Page 16](zotero://open-pdf/library/items/LKNZ4GDV?page=16) [2022-12-27 > 9:25 pm](2022-12-27#9:25%20pm)
 
 > [!quote] Highlight  
 > scope for follow-up research, particularly using network analysis to shed more empirical light on this theory
 >
-> [Page 16](zotero://open-pdf/library/items/LKNZ4GDV?page=16) [[2022-12-27#9:25 pm\|2022-12-27#9:25 pm]]
+> [Page 16](zotero://open-pdf/library/items/LKNZ4GDV?page=16) [2022-12-27 > 9:25 pm](2022-12-27#9:25%20pm)
 
 
 
