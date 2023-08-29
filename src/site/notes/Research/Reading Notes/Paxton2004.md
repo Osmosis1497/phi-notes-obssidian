@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research/reading-notes/paxton2004/","title":"Paxton2004","tags":["New-York","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/research/reading-notes/paxton2004/","title":"Paxton2004","tags":["New-York","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
