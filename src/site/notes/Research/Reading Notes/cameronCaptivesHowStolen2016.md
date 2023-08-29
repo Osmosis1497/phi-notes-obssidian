@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research/reading-notes/cameron-captives-how-stolen2016/","title":"Records","tags":["Social-Science-/-Anthropology-/-Cultural-&-Social","Social-Science-/-Slavery","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/research/reading-notes/cameron-captives-how-stolen2016/","title":"Records","tags":["Social-Science-/-Anthropology-/-Cultural-&-Social","Social-Science-/-Slavery","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
