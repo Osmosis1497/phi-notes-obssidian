@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research/reading-notes/bender-dangers-stochastic-parrots2021/"}
+{"dg-publish":true,"permalink":"/research/reading-notes/bender-dangers-stochastic-parrots2021/","tags":["gardenEntry"]}
 ---
 
 
