@@ -14,7 +14,7 @@ Taken from the course materials from the *Introduction to Philosophy*.
 	- *justification,* and
 	- *truth*.
 - In doing conceptual analysis, theorists actively endeavor to come up with counterexamples to a proposed definition. A **counterexample** is a case that illustrates that a statement, definition, or argument is flawed. 
-- ==If a counterexample works to defeat an analysis, then theorists will amend the analysis, offer a new definition, and the process starts over again. == See [[]]
+- ==If a counterexample works to defeat an analysis, then theorists will amend the analysis, offer a new definition, and the process starts over again. == 
 
 ### Truth
 
@@ -23,6 +23,40 @@ Taken from the course materials from the *Introduction to Philosophy*.
 - Aristotle claimed that a true statement is one that says of something that *it is what it is* or that *it is not what it is not*. 
 - Another way of understanding truth is that it is a 
 - **correspondence** between statements and the world. The correspondence theory of truth is that a statement **is true if and only if that statement corresponds to some fact** (Marian 2015).    
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Text Elements
+Three Strong Criteria for Truth 
+2. Coherence Criterion 
+1. Correspondence Criterion 
+3. Pragmatic Criterion 
+Truth is a matter of finding a fit.
+
+Statement is likely true if fit in with the other claims in a system of other statements.
+
+Metaphor: Puzzle & its Pieces 
+Truth is a mirror of nature.
+
+Statement is true if it accurately reflects the world-as-it-is or substances.
+
+Example: The Cup of [REDACTED]. 
+At a minimum, truth should work.
+
+A statement can be considered true if it helps us predict phenomena or otherwise helps us cope with existence.
+
+Example: Directions to School, Kuhn's Scientific Revolutions 
+
+
+</div></div>
+
 
 ## **Knowledge**
 
