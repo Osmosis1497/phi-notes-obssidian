@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research/ideas/thought-experiment-the-octopus-test-v-0-75-fa-23/","title":"Thought Experiment-The Octopus Test-v.0.75-FA23","tags":[null,"gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/research/ideas/thought-experiment-the-octopus-test-v-0-75-fa-23/","title":"Thought Experiment-The Octopus Test-v.0.75-FA23","tags":[null,"gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
