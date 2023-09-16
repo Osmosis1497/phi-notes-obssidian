@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research/reading-notes/blok-debt-its-aftermath2017/","title":"Debt and Its Aftermath: The Near Eastern Background to Solon's Seisachtheia","tags":["literature-note","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/research/reading-notes/blok-debt-its-aftermath2017/","title":"Debt and Its Aftermath: The Near Eastern Background to Solon's Seisachtheia","tags":["literature-note","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 # [Debt and Its Aftermath: The Near Eastern Background to Solon's Seisachtheia](zotero://select/library/items/HMFNTNZK)
