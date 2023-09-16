@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research/reading-notes/bennison-chapman-clay-objects-tokens2019/","title":"Clay Objects as “Tokens”? Evidence for early counting and administration at Late Neolithic Tell Sabi Abyad, Mesopotamia","tags":["literature-note","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/research/reading-notes/bennison-chapman-clay-objects-tokens2019/","title":"Clay Objects as “Tokens”? Evidence for early counting and administration at Late Neolithic Tell Sabi Abyad, Mesopotamia","tags":["literature-note","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
