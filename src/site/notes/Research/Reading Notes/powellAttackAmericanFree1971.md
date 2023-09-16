@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research/reading-notes/powell-attack-american-free1971/","title":"powellAttackAmericanFree1971","tags":[null,"gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/research/reading-notes/powell-attack-american-free1971/","title":"powellAttackAmericanFree1971","tags":[null,"gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
