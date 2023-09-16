@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research/reading-notes/bertrandrussell-praise-idleness1932/","title":"In Praise of Idleness","tags":["literature-note","Philosophy","Politics","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/research/reading-notes/bertrandrussell-praise-idleness1932/","title":"In Praise of Idleness","tags":["literature-note","Philosophy","Politics","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
